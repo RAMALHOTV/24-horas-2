@@ -5,2246 +5,626 @@
 
 ################################################################################# Informações da Lista
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 05/12/2021 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 19/12/2021
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 
 https://www.youtube.com/channel/UCojJ
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ffade7e04c100216dd44af113cd1740.jpg" group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138711.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b8bd681531128f4045756649267bb0fd.jpg" group-title="Canais | 24 Horas",[24H] 44 Gatos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137410.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg" group-title="Canais | 24 Horas",[24h] 101 Dalmatas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137614.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e5b822de56f114f71f4277c078b3eb37.jpg" group-title="Canais | 24 Horas",[24H] Aaahh!!! Monstros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135549.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg" group-title="Canais | 24 Horas",[24H] A Beleza Secreta dos Animais
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138011.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/d2fbaba85cf896e0ae2fa0a23380fa25.jpg" group-title="Canais | 24 Horas",[24H] A Bruxinha Sabrina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138935.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8afba20f0bab403aa1f4082a185c7186.jpg" group-title="Canais | 24 Horas",[24H] Acampamento Lakebottom
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/141493.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qQD" group-title="Canais | 24 Horas",[24H] Acampamento Lakebottom
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47478.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8a88633a3daea9112ab518cb258a93c7.jpg" group-title="Canais | 24 Horas",[24H] A Casa da Coruja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137411.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/58ca41a6eb561bbe5d5f6c94150a736a.jpg" group-title="Canais | 24 Horas",[24H] A Casa do Mickey Mouse
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137412.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a92b8be8e85a8138e62c55b7b7b3be1b.jpg" group-title="Canais | 24 Horas",[24H] A Casa Magica da Gabby
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137137.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/d5659a9f8c9d035f846112351933e474.jpg" group-title="Canais | 24 Horas",[24H] A Cegonha da Perna Fina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138936.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3T3" group-title="Canais | 24 Horas",[24H] A Cobrinha Azul
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47462.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e53d84935b563ab1110469e8f04df7e9.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e da Carlota
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140763.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9d2d8ddb162c0827a1e12bb80c32f575.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral Na Estrada
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140764.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140765.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140766.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140767.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140768.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140769.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140770.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140771.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140772.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140773.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg" group-title="Canais | 24 Horas",[24H] A Culpa e do Cabral [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140774.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8ec3496f0decd062d4399a2540806006.jpg" group-title="Canais | 24 Horas",[24H] A Diarista
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139273.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/20a527b8b5f7e4a12c6a62f9bab30a19.jpg" group-title="Canais | 24 Horas",[24H] Aeon Flux
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136697.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6c4" group-title="Canais | 24 Horas",[24H] Aeon Flux [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47479.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ae9207c30633d7237a1d493554fda351.jpg" group-title="Canais | 24 Horas",[24H] A Familia Addams
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138937.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CQl" group-title="Canais | 24 Horas",[24H] A Familia Dracula
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47464.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0479e0a8acffc051b5c5f9361961c803.jpg" group-title="Canais | 24 Horas",[24H] A Familia Urso
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135544.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/5uJ" group-title="Canais | 24 Horas",[24H] A Feiticeira Facera
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47465.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2cf6b3017a5c0765556f6bda139fda89.jpg" group-title="Canais | 24 Horas",[24H] A Formiga e O Tamandua
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135535.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137413.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137414.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137415.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137416.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137417.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137418.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137419.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137420.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137421.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137422.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137423.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137424.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S13]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137425.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d7237ce9e23a187279646c86674b536.jpg" group-title="Canais | 24 Horas",[24H] A Grande Familia [S14]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137426.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg" group-title="Canais | 24 Horas",[24H] Aladdin
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138730.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/70e8ba9f23fdce063a1229c186040561.jpg" group-title="Canais | 24 Horas",[24H] Alf O Eteimoso
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135550.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/891b8a72771b87c245b238c702eeabec.jpg" group-title="Canais | 24 Horas",[24H] Alienigenas do Passado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140734.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/93be26274a468030694b999e4141d0df.jpg" group-title="Canais | 24 Horas",[24H] Alien TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140775.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e52e9f963010ee9a8936db146aedd664.jpg" group-title="Canais | 24 Horas",[24H] A Lula Lele
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135536.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1kp" group-title="Canais | 24 Horas",[24H] A Mansao Foster para Amigos Imaginarios
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47466.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wPD" group-title="Canais | 24 Horas",[24H] A Mumia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47467.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fc872ab390a132e1f3bf97909ccc5c03.jpg" group-title="Canais | 24 Horas",[24H] Ana Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138939.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VY5" group-title="Canais | 24 Horas",[24H] Andy Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47481.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/78cdeb3583f18a44f06645a9ff4d2da7.jpg" group-title="Canais | 24 Horas",[24H] Andy Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140776.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/55c0f4102c30c3f50ec9c465add0f761.jpg" group-title="Canais | 24 Horas",[24H] Animaniacs (1993)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135540.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0c7806b4fc0dcf2e8b7cf38d8f3c37ef.jpg" group-title="Canais | 24 Horas",[24H] Animaniacs (2020)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135541.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4Oe" group-title="Canais | 24 Horas",[24H] A Nossa Turma
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47468.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/81d5e7317b4085eb7407fbba41fffbd0.jpg" group-title="Canais | 24 Horas",[24H] Anota Ai
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140777.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/vU6" group-title="Canais | 24 Horas",[24H] A Nova Escola do Imperador
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47469.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fc613fe48151546515c9747ae28fe4a4.jpg" group-title="Canais | 24 Horas",[24H] A Pantera Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135537.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3b8e2365585f8301904e092b8f649c8d.jpg" group-title="Canais | 24 Horas",[24H] A Pequena Sereia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135538.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/yT5" group-title="Canais | 24 Horas",[24H] Arquivo Caofidencial
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47482.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais | 24 Horas",[24H] Arquivo Morto [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138731.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais | 24 Horas",[24H] Arquivo Morto [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138732.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais | 24 Horas",[24H] Arquivo Morto [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138733.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais | 24 Horas",[24H] Arquivo Morto [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138734.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais | 24 Horas",[24H] Arquivo Morto [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138735.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais | 24 Horas",[24H] Arquivo Morto [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138736.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais | 24 Horas",[24H] Arquivo Morto [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138737.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138738.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138739.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138740.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138741.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138742.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138743.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138744.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138745.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138746.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138747.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais | 24 Horas",[24H] Arquivo X [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138748.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f92a4bffb8fd1442d666ee69b4fd4c5c.jpg" group-title="Canais | 24 Horas",[24H] As Aventura de Tom e Jerry
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136815.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2ed6da1882d60bc49eab78574b84acd6.jpg" group-title="Canais | 24 Horas",[24H] As Aventuras de Jackie Chan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135542.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Hpn" group-title="Canais | 24 Horas",[24H] As Aventuras de Piggley Winks
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47484.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/pHP" group-title="Canais | 24 Horas",[24H] As Aventuras de Tintim
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47485.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/1d32359149656d3a22127a61ecd4d0b6.jpg" group-title="Canais | 24 Horas",[24H] As Aventuras do Batman
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135543.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/10eb05c9613316dfb3cb1a39efdf13e0.jpg" group-title="Canais | 24 Horas",[24H] As Aventuras do Gato de Botas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140528.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/de04b0a79d5ccf0794e513cc8ec345f3.jpg" group-title="Canais | 24 Horas",[24H] As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137138.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xzb" group-title="Canais | 24 Horas",[24H] As Mumias Vivas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47487.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3812ddd83b422145bb26668170df25da.jpg" group-title="Canais | 24 Horas",[24H] As Novas Aventuras de Christine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138749.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/feb1f74ba9942c04a7f846bef60ddaeb.jpg" group-title="Canais | 24 Horas",[24H] As Novas Aventuras do Superman
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135554.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/43f9ad0569968e2cd047f1ff936547d2.jpg" group-title="Canais | 24 Horas",[24H] As Novas Aventuras do Ursinho Puff
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135557.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/M7L" group-title="Canais | 24 Horas",[24H] As Tartarugas Ninja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47488.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e49dae9d533880ffd6a0344341379135.jpg" group-title="Canais | 24 Horas",[24H] As Terriveis Aventuras de Billy e Mandy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135551.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/hQr" group-title="Canais | 24 Horas",[24H] As Trapalhadas de Flapjack
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47489.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Af3" group-title="Canais | 24 Horas",[24H] As Trigemeas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47490.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/27b7cc0e3877f799e884a73051abc2b3.jpg" group-title="Canais | 24 Horas",[24H] As Visoes da Raven
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135558.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2e7be9bcce6baa27e3dbc51959d34ac1.jpg" group-title="Canais | 24 Horas",[24H] A Turma do Charlie Brown e Snoopy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137409.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/4e8e2cd8aa81ba8f027956b6223768a5.jpg" group-title="Canais | 24 Horas",[24H] A Turma do Manda Chuva
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135539.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a4729ab4b20cadd32d9d22d66e883479.jpg" group-title="Canais | 24 Horas",[24H] A Turma do Pateta
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138812.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/n24" group-title="Canais | 24 Horas",[24H] A Turma do Pato Bill
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47474.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c1e4ede455d78f44ed7721f19fa20e42.jpg" group-title="Canais | 24 Horas",[24H] Austin e Ally
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138750.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2b9373d665b9bd5e57558e234587f581.jpg" group-title="Canais | 24 Horas",[24H] A Vaca e o Frango
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135553.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zom" group-title="Canais | 24 Horas",[24H] Avatar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47492.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/P0s" group-title="Canais | 24 Horas",[24H] A Vida e as Aventuras de Juniper Lee
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47476.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4ct" group-title="Canais | 24 Horas",[24H] A Vida Moderna de Rocko
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47477.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/4fc2f584ed2414f2fd6e1003a6c2a8d8.jpg" group-title="Canais | 24 Horas",[24H] A Vila [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140730.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/4fc2f584ed2414f2fd6e1003a6c2a8d8.jpg" group-title="Canais | 24 Horas",[24H] A Vila [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140731.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/4fc2f584ed2414f2fd6e1003a6c2a8d8.jpg" group-title="Canais | 24 Horas",[24H] A Vila [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140732.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/4fc2f584ed2414f2fd6e1003a6c2a8d8.jpg" group-title="Canais | 24 Horas",[24H] A Vila [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140733.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/35ebc55951f82fd4acc95299a716393d.jpg" group-title="Canais | 24 Horas",[24H] Baby Looney Tunes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138813.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Lfw" group-title="Canais | 24 Horas",[24H] Backyardigans
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47494.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b1a988fde961ed66ca8aebfb62a849dd.jpg" group-title="Canais | 24 Horas",[24H] Bake Off Brasil Celebridades
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138017.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wGB" group-title="Canais | 24 Horas",[24H] Bakugan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47495.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/01cb40ea2b190f37d57a1ce159b857fc.jpg" group-title="Canais | 24 Horas",[24H] Barbie Dreamhouse Adventures
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135559.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/s4E" group-title="Canais | 24 Horas",[24H] Barney e seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47496.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bd416561a28691b4c15c34f33d027c36.jpg" group-title="Canais | 24 Horas",[24H] Barney e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/141494.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/128e93ccc4defb97d4acd8704b12fa56.jpg" group-title="Canais | 24 Horas",[24H] Batalha Makers Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138751.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47497.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47498.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47499.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47500.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rDG" group-title="Canais | 24 Horas",[24H] Bates Motel - S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47501.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/7oQ" group-title="Canais | 24 Horas",[24H] Batfink
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47502.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4mo" group-title="Canais | 24 Horas",[24H] Beavis and Butt-Head [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47503.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/af8a118a629056bc6c13d5e4ee5f0102.jpg" group-title="Canais | 24 Horas",[24H] Ben 10 [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138715.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/af8a118a629056bc6c13d5e4ee5f0102.jpg" group-title="Canais | 24 Horas",[24H] Ben 10 [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138716.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/af8a118a629056bc6c13d5e4ee5f0102.jpg" group-title="Canais | 24 Horas",[24H] Ben 10 [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138717.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/af8a118a629056bc6c13d5e4ee5f0102.jpg" group-title="Canais | 24 Horas",[24H] Ben 10 [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138718.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0f3e2badcb98728f9b2570c0f07d8474.jpg" group-title="Canais | 24 Horas",[24H] Betty a Feia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138018.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/7QF" group-title="Canais | 24 Horas",[24H] Betty Atomica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47508.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/41cd8f00075a918b541c84610dcfe2b1.jpg" group-title="Canais | 24 Horas",[24H] Betty Em Nova York
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138019.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b4e132cba0f017040678e1bd1b4efb70.jpg" group-title="Canais | 24 Horas",[24H] Beyblade [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140543.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9728f7becc817edde0c4878636bbfa80.png" group-title="Canais | 24 Horas",[24H] Beyblade [S02] V Force
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140544.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/88764691132342ef712026aa85a31888.jpg" group-title="Canais | 24 Horas",[24H] Beyblade [S03] G Revolution
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140545.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5f15050da92808048cd848caca2e943d.jpg" group-title="Canais | 24 Horas",[24H] Beyblade [S04] Metal Fusion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140546.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/v63" group-title="Canais | 24 Horas",[24H] Bibo Pai e Bobi Filho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47513.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/OYY" group-title="Canais | 24 Horas",[24H] Bicudo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47514.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3f2cd66e7cf5e2ce94a79080d66974dd.jpg" group-title="Canais | 24 Horas",[24H] Big Mouth
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135560.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/A0v" group-title="Canais | 24 Horas",[24H] Black Kamen Rider
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47515.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/68770f604bc11dad11c5c0e59d4741c7.jpg" group-title="Canais | 24 Horas",[24H] Blaze e os Monster Machines
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138752.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Arrankar A Chegada [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138758.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Arrankar A Entrada Sorrateira no Hueco Mundo [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138759.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Arrankar A Falsa Cidade de Karakura [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138764.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Arrankar A Luta Feroz [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138760.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Arrankar A Queda [S14]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138766.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Arrankar VS Shinigami [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138762.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - O Ataque dos Bounts a Sociedade das Almas [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138757.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - O Conto da Zanpakuto Desconhecida [S13]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138765.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - O Exercito de Invasao das 13 Divisoes [S15]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138767.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - O Novo Capitao Amagai Shusuke [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138761.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - O Passado [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138763.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Os Bounts [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138756.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - O Shinigami Substituto Desaparecido [S16]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138768.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - O Substituto [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138753.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Sociedade das Almas A Entrada [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138754.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | 24 Horas",[24H] Bleach - Sociedade das Almas O Resgate [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138755.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138065.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138066.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138067.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138068.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138069.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138070.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138071.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138072.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138073.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138074.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fec598943ec87bfa7240c3f1fe5553bc.jpg" group-title="Canais | 24 Horas",[24H] Bob Esponja Calca Quadrada [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138075.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a164bcb33764be723245cc7a9073ce34.jpg" group-title="Canais | 24 Horas",[24H] Bojack Horseman
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136694.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/58047377efae39d54436775f79194817.jpg" group-title="Canais | 24 Horas",[24H] Boku No Hero Academia [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138769.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/58047377efae39d54436775f79194817.jpg" group-title="Canais | 24 Horas",[24H] Boku No Hero Academia [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138770.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/58047377efae39d54436775f79194817.jpg" group-title="Canais | 24 Horas",[24H] Boku No Hero Academia [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138771.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/58047377efae39d54436775f79194817.jpg" group-title="Canais | 24 Horas",[24H] Boku No Hero Academia [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138772.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/D3q" group-title="Canais | 24 Horas",[24H] Boneco Atomico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47526.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/066219f6aa0adb5aac235ad6d78dcc4d.jpg" group-title="Canais | 24 Horas",[24H] B Positive
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140778.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/bhy" group-title="Canais | 24 Horas",[24H] BraveStarr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47527.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47528.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47529.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47530.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47531.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tXb" group-title="Canais | 24 Horas",[24H] Breaking Bad - S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47532.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/195c36ad5a6a1793da5ac280f9a9729e.jpg" group-title="Canais | 24 Horas",[24H] Brilhante Victoria
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138773.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJz" group-title="Canais | 24 Horas",[24H] Bucky Jibaku-kun
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47533.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4qh" group-title="Canais | 24 Horas",[24H] Buzz Lightyear do Comando Estelar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47534.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/15d95b53bffddf1d42623797b44d0492.jpg" group-title="Canais | 24 Horas",[24H] Cacadores de Bugs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138774.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/33686c3090134452378050e8e0c90201.jpg" group-title="Canais | 24 Horas",[24H] Cacadores de Dinossauros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138775.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jMX" group-title="Canais | 24 Horas",[24H] Cadillacs e Dinosauros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47535.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/B22" group-title="Canais | 24 Horas",[24H] Caezinhos do Canil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47536.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KhE" group-title="Canais | 24 Horas",[24H] Campeoes do Sedokai
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47537.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/noo" group-title="Canais | YouTube",[24H] Canal YouTube - Badin
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47540.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rj2" group-title="Canais | YouTube",[24H] Canal YouTube - Barbixas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47541.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XmK" group-title="Canais | YouTube",[24H] Canal YouTube - BOOM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47542.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J9o" group-title="Canais | YouTube",[24H] Canal YouTube - Carol kyoko
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47543.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qek" group-title="Canais | YouTube",[24H] Canal YouTube - Ciencia Todo Dia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47544.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - Dramaturgia Panico na TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47545.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/skQ" group-title="Canais | YouTube",[24H] Canal YouTube - Edu Primitivo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47546.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ke2" group-title="Canais | YouTube",[24H] Canal YouTube - Encrenca RedeTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47547.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uMp" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Desconhecidos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47548.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/5Lr" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Insanos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47549.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gKl" group-title="Canais | YouTube",[24H] Canal YouTube - FitDance
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47550.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mKa" group-title="Canais | YouTube",[24H] Canal YouTube - Gerson Albuquerque
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47551.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/xas" group-title="Canais | YouTube",[24H] Canal YouTube - INCRIVEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47552.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Olw" group-title="Canais | YouTube",[24H] Canal YouTube - John Leitao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47553.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2gm" group-title="Canais | YouTube",[24H] Canal YouTube - MixReynold
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47555.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/B2I" group-title="Canais | YouTube",[24H] Canal YouTube - Na CorreRia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47556.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nPQ" group-title="Canais | YouTube",[24H] Canal YouTube - Pagode da Ofensa na Web
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47557.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - PANICO TROLLAGENS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47558.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CBH" group-title="Canais | YouTube",[24H] Canal YouTube - Parafernalha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47559.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ldO" group-title="Canais | YouTube",[24H] Canal YouTube - Porta dos Fundos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47560.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6PY" group-title="Canais | YouTube",[24H] Canal YouTube - Rabisco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47561.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J1Q" group-title="Canais | YouTube",[24H] Canal YouTube - Refugio Mental
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47562.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sny" group-title="Canais | YouTube",[24H] Canal YouTube - South America Memes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47563.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QeF" group-title="Canais | YouTube",[24H] Canal YouTube - Voce na TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47564.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47565.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47566.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/7dA" group-title="Canais | YouTube",[24H] Canal YouTube - WEBBULLYING
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47567.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CPx" group-title="Canais | YouTube",[24H] Canal YouTube - Ze Pequeno do Povo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47568.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Mrn" group-title="Canais | 24 Horas",[24H] Capitao Lento - Curta Metragem
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47569.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Lhe" group-title="Canais | 24 Horas",[24H] Capitao Planeta
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47570.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Th6" group-title="Canais | 24 Horas",[24H] Carangos e Motocas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47571.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6oh" group-title="Canais | 24 Horas",[24H] Careta e Mutreta - Curta Metragem [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47572.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qeK" group-title="Canais | 24 Horas",[24H] Carmen Sandiego
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47573.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b160d86634c683a62683bd840e8a954d.jpg" group-title="Canais | 24 Horas",[24H] Casamento as Cegas Brasil [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138778.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/910654d977756de3c872292a066c07ec.jpg" group-title="Canais | 24 Horas",[24H] Casamento as Cegas [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138776.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/910654d977756de3c872292a066c07ec.jpg" group-title="Canais | 24 Horas",[24H] Casamento as Cegas [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138777.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7de3999db0c3121c450fb94c8e672336.jpg" group-title="Canais | 24 Horas",[24H] Castelo Ra-Tim-Bum
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138728.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/c2n" group-title="Canais | 24 Horas",[24H] Castelo Ra-Tim-Bum
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47574.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b1cf7637709d5f863f2707b973e5f68f.jpg" group-title="Canais | 24 Horas",[24H] Cavalo de Fogo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137613.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg" group-title="Canais | 24 Horas",[24H] Caverna do Dragao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135454.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/X1i" group-title="Canais | 24 Horas",[24H] Centurions
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47583.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="Canais | 24 Horas",[24H] Chapolin Colorado [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138000.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="Canais | 24 Horas",[24H] Chapolin Colorado [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138001.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="Canais | 24 Horas",[24H] Chapolin Colorado [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138002.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="Canais | 24 Horas",[24H] Chapolin Colorado [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138003.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="Canais | 24 Horas",[24H] Chapolin Colorado [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138004.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="Canais | 24 Horas",[24H] Chapolin Colorado [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138005.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg" group-title="Canais | 24 Horas",[24H] Chapolin Colorado [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138006.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/D4A" group-title="Canais | 24 Horas",[24H] Charlie Chan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47584.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ddef6c327b41ab41bbdf7c316916f0d1.jpg" group-title="Canais | 24 Horas",[24H] Chaves Em Desenho Animado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140735.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg" group-title="Canais | 24 Horas",[24H] Chaves [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137139.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg" group-title="Canais | 24 Horas",[24H] Chaves [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137140.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg" group-title="Canais | 24 Horas",[24H] Chaves [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137141.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg" group-title="Canais | 24 Horas",[24H] Chaves [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137142.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg" group-title="Canais | 24 Horas",[24H] Chaves [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137143.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg" group-title="Canais | 24 Horas",[24H] Chaves [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137144.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg" group-title="Canais | 24 Horas",[24H] Chaves [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137145.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/927975e84c183bad37470ee83d42d748.jpg" group-title="Canais | 24 Horas",[24H] Chesapeake Shores
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139306.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/AuA" group-title="Canais | 24 Horas",[24H] Chowder
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47586.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138780.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138781.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138782.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138783.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138784.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138785.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138786.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg" group-title="Canais | 24 Horas",[24H] Chuck Norris O Homem da Lei [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138787.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/7xQ" group-title="Canais | 24 Horas",[24H] Clarencio o Otimista
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47587.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gdD" group-title="Canais | 24 Horas",[24H] Clifford o Gigante Cao Vermelho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47588.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ekv" group-title="Canais | 24 Horas",[24H] Clube dos Carros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47589.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/36ff57355c09404d5262181d2f3c6349.jpg" group-title="Canais | 24 Horas",[24H] Cobra Kai [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138712.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/36ff57355c09404d5262181d2f3c6349.jpg" group-title="Canais | 24 Horas",[24H] Cobra Kai [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138713.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/36ff57355c09404d5262181d2f3c6349.jpg" group-title="Canais | 24 Horas",[24H] Cobra Kai [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138714.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sni" group-title="Canais | 24 Horas",[24H] Coelho Ricochete
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47590.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6Ur" group-title="Canais | 24 Horas",[24H] Colecao Bob Zoom
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47591.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ZOL" group-title="Canais | 24 Horas",[24H] Comichao e Cocadinha [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47592.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/10ce659a7edf1bb2a1038313665d9e37.jpg" group-title="Canais | 24 Horas",[24H] Comidas Cheias de Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140779.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7e172af3391c37199ca6790bca218ebf.jpg" group-title="Canais | 24 Horas",[24H] Como Defender um Assassino [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139288.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7e172af3391c37199ca6790bca218ebf.jpg" group-title="Canais | 24 Horas",[24H] Como Defender um Assassino [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139289.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7e172af3391c37199ca6790bca218ebf.jpg" group-title="Canais | 24 Horas",[24H] Como Defender um Assassino [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139290.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7e172af3391c37199ca6790bca218ebf.jpg" group-title="Canais | 24 Horas",[24H] Como Defender um Assassino [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139291.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7e172af3391c37199ca6790bca218ebf.jpg" group-title="Canais | 24 Horas",[24H] Como Defender um Assassino [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139292.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7e172af3391c37199ca6790bca218ebf.jpg" group-title="Canais | 24 Horas",[24H] Como Defender um Assassino [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139293.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139280.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139281.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139282.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139283.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139284.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139285.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139286.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bac6c67202466738da7a24b24a57c2f1.jpg" group-title="Canais | 24 Horas",[24H] Como Eu Conheci Sua Mae [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139287.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/27ce82034594a0a2aa1a9f77446a834e.jpg" group-title="Canais | 24 Horas",[24H] Como Funciona O Universo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140736.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/olV" group-title="Canais | 24 Horas",[24H] Contos da Crypta - Animacao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47593.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zjF" group-title="Canais | 24 Horas",[24H] Coragem O Cao Covarde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47594.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/5SO" group-title="Canais | 24 Horas",[24H] Corrida Espacial
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47595.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/81r" group-title="Canais | 24 Horas",[24H] Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47596.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7b25f679b359fb6568a7d753dc2a8078.jpg" group-title="Canais | 24 Horas",[24H] Cosmos Mundos Possiveis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140780.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nkn" group-title="Canais | 24 Horas",[24H] Cyberchase a Corrida do Espaco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47597.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6327455211ee05c679cce3a3aea1f691.jpg" group-title="Canais | 24 Horas",[24H] Dani Se
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140781.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Uef" group-title="Canais | 24 Horas",[24H] Danny Phantom
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47598.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ix2" group-title="Canais | 24 Horas",[24H] Deby e Loid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47604.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47599.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47600.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47601.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cMh" group-title="Canais | 24 Horas",[24H] De Ferias Com Ex - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47602.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J6P" group-title="Canais | 24 Horas",[24H] Delvin o Motoqueiro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47605.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TPK" group-title="Canais | 24 Horas",[24H] Denis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47606.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fd7e2b08ce07a11f2616e12e37ae4a95.jpg" group-title="Canais | 24 Horas",[24H] Dennis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135500.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/W3i" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47607.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c1ff04df4897198abb1d0f6d153b703c.jpg" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos Historias Inesqueciveis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139277.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Rdy" group-title="Canais | 24 Horas",[24H] De Volta Para O Futuro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47603.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BRw" group-title="Canais | 24 Horas",[24H] Dick Vigarista e Muttley - Maquinas Voadoras
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47608.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ec0b5f96c56fb754a152366a2c7459da.jpg" group-title="Canais | 24 Horas",[24H] Digimon Adventure
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137620.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9b20057dd78dc771db73ccc2a3b3e489.jpg" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138076.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9b20057dd78dc771db73ccc2a3b3e489.jpg" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138077.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9b20057dd78dc771db73ccc2a3b3e489.jpg" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138078.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9b20057dd78dc771db73ccc2a3b3e489.jpg" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138079.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9b20057dd78dc771db73ccc2a3b3e489.jpg" group-title="Canais | 24 Horas",[24H] Digimon Digital Monsters [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138080.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2e6c2f8a940dc1fbfd3b95c85cbd77e4.jpg" group-title="Canais | 24 Horas",[24H] Digimon Savers
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137621.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ff24b786a7e00dde77629e0ea374cc1d.jpg" group-title="Canais | 24 Horas",[24H] Digimon Tamers
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138025.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JP3" group-title="Canais | 24 Horas",[24H] Dino Boy e o Vale Perdido
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47614.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8Lh" group-title="Canais | 24 Horas",[24H] Dinossauro Rei
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47615.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137623.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137624.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137625.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137626.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137627.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137628.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137629.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137630.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137631.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137632.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137633.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137634.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/75b60e1acc620bbfb020d682827c9519.jpg" group-title="Canais | 24 Horas",[24H] Donas de Casa Desesperadas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138789.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/O89" group-title="Canais | 24 Horas",[24H] Don Dracula
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47628.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wei" group-title="Canais | 24 Horas",[24H] Dora A Aventureira
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47629.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/979b036ffcad37c3f06e64e36d31daa4.jpg" group-title="Canais | 24 Horas",[24H] Doug
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135552.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5b5d2a477159066934765f97b96568e6.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Classico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135473.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e4e0cb675028ef55ca2dfd740c829e3.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball GT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135483.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - Golden Freeza [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135485.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - Saga Deus da Destruicao Bills [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135484.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - Sobrevivencia do Universo [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135488.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - Trunks do Futuro [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135487.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - Universo 6 [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135486.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Androide Cell (Parte 1) [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135478.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Androide Cell (Parte 2) [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135479.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Freeza (Parte 1) [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135475.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Freeza (Parte 2) [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135476.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Garlic Jr [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135477.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Majin Boo (Parte 1) [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135481.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Majin Boo (Parte 2) [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135482.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga dos Saiyajins [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135474.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b86589ea181ee1deb3b90d4c1d574947.jpg" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga do Torneio do Outro Mundo [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135480.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ad95cfb2092d88911130c5e0482b16fb.jpg" group-title="Canais | 24 Horas",[24H] Drake e Josh
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137622.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Bo0" group-title="Canais | 24 Horas",[24H] Dr Calca Dimensional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47631.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/7sk" group-title="Canais | 24 Horas",[24H] Droppy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47646.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/UhX" group-title="Canais | 24 Horas",[24H] Duck Dodgers
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47647.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fnH" group-title="Canais | 24 Horas",[24H] Duck Tales
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47648.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d5K" group-title="Canais | 24 Horas",[24H] Dudley do Right
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47649.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4Fn" group-title="Canais | 24 Horas",[24H] Duelo Xiaolin
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47650.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zhN" group-title="Canais | 24 Horas",[24H] Edgar e Ellen
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47652.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lSD" group-title="Canais | 24 Horas",[24H] Eek! The Cat
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47653.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/1cf489e561de72edd9af10131b5b376a.jpg" group-title="Canais | 24 Horas",[24H] Ei Arnold
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138946.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FmZ" group-title="Canais | 24 Horas",[24H] El Chap - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47654.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FmZ" group-title="Canais | 24 Horas",[24H] El Chap - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47655.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FmZ" group-title="Canais | 24 Horas",[24H] El Chap - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47656.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2AF" group-title="Canais | 24 Horas",[24H] E O Lobo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47651.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138050.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138051.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138052.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138053.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138054.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138055.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138056.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138057.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138058.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138059.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138060.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138061.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S13]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138062.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S14]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138063.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg" group-title="Canais | 24 Horas",[24H] ER Plantao Medico [S15]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138064.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/151df67d8d15f1c0c39c7779f27935b6.jpg" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137611.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/800e0bef6df2add7074d67534e412c78.jpg" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo Nova Geracao [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138028.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/800e0bef6df2add7074d67534e412c78.jpg" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo Nova Geracao [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138029.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/800e0bef6df2add7074d67534e412c78.jpg" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo Nova Geracao [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138030.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/800e0bef6df2add7074d67534e412c78.jpg" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo Nova Geracao [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138031.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/800e0bef6df2add7074d67534e412c78.jpg" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo Nova Geracao [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138032.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/800e0bef6df2add7074d67534e412c78.jpg" group-title="Canais | 24 Horas",[24H] Escolinha do Professor Raimundo Nova Geracao [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138033.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ufU" group-title="Canais | 24 Horas",[24H] Esquadrao do Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47658.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/k4n" group-title="Canais | 24 Horas",[24H] Esquadrao Especial Winspector
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47659.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4ro" group-title="Canais | 24 Horas",[24H] Esquadrao Marte 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47660.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0cae89c158ecab7b3b1e02ddf083eb7e.jpg" group-title="Canais | 24 Horas",[24H] Esquadrao Relampago Changeman
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138779.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NWp" group-title="Canais | 24 Horas",[24H] Esquilo Sem Grilo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47661.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/UaP" group-title="Canais | 24 Horas",[24H] Estados Unidos de Archies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47662.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138020.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138021.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138022.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138023.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138024.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/vhP" group-title="Canais | 24 Horas",[24H] Eu Sou o Maximo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47668.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gyy" group-title="Canais | 24 Horas",[24H] Fabulas da Disney
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47669.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/b6K" group-title="Canais | 24 Horas",[24H] Faisca e Fumaca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47670.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/yQQ" group-title="Canais | 24 Horas",[24H] Falcao Azul e o Bionicao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47671.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ShT" group-title="Canais | 24 Horas",[24H] Familia DinOssauro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47672.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/js3" group-title="Canais | 24 Horas",[24H] Fantasminha Legal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47673.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zIQ" group-title="Canais | 24 Horas",[24H] Fantasmino O Fantasma Galopante
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47674.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9dbc2587ec9da61775488a8326c411d0.jpg" group-title="Canais | 24 Horas",[24H] Farejando Novos Mundos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139274.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XCx" group-title="Canais | 24 Horas",[24H] Flash Back 92 Clips
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47675.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/sT9" group-title="Canais | 24 Horas",[24H] Flash Gordon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47676.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JNx" group-title="Canais | 24 Horas",[24H] Fly O Pequeno Guerreiro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47677.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/585195c7010576f3063ce0452e4e86f7.jpg" group-title="Canais | 24 Horas",[24H] Formiga Atomica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135545.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/PWx" group-title="Canais | 24 Horas",[24H] Frango Kung Fu
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47679.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kG2" group-title="Canais | 24 Horas",[24H] Frankenstein Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47680.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6TP" group-title="Canais | 24 Horas",[24H] Freakazoid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47681.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138814.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138815.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138816.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138817.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138818.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138819.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138820.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138821.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138822.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg" group-title="Canais | 24 Horas",[24H] Friends [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138823.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JMn" group-title="Canais | 24 Horas",[24H] Galaxy Rangers
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47692.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2UR" group-title="Canais | 24 Horas",[24H] Galaxy Trio
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47693.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rsy" group-title="Canais | 24 Horas",[24H] Galinha Pintadinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47694.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135534.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135533.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135532.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135531.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135530.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135529.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135528.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais | 24 Horas",[24H] Game of Thrones [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135527.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg" group-title="Canais | 24 Horas",[24H] Game Shakers [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138007.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg" group-title="Canais | 24 Horas",[24H] Game Shakers [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138008.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg" group-title="Canais | 24 Horas",[24H] Game Shakers [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138009.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lmA" group-title="Canais | 24 Horas",[24H] Garfield e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47703.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/54f4e458b35b7788227265431759e8a9.jpg" group-title="Canais | 24 Horas",[24H] Garfield e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138026.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/yPE" group-title="Canais | 24 Horas",[24H] Gasparzinho e Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47704.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/x3B" group-title="Canais | 24 Horas",[24H] Gato Felix
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47705.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tyh" group-title="Canais | 24 Horas",[24H] Go Diego Go
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47706.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/X6u" group-title="Canais | 24 Horas",[24H] Guerreiras Magicas de Rayearth
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47707.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gAV" group-title="Canais | 24 Horas",[24H] Guerreiros Miticos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47708.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qj8" group-title="Canais | 24 Horas",[24H] Gundam Wing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47709.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JGq" group-title="Canais | 24 Horas",[24H] Hamtaro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47710.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/d5df7873f23b5ef2e710cb93336323b7.jpg" group-title="Canais | 24 Horas",[24H] Hannah Montana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139272.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/UrB" group-title="Canais | 24 Horas",[24H] Harvey O Advogado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47711.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/AvS" group-title="Canais | 24 Horas",[24H] Hello Kitty
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47712.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg" group-title="Canais | 24 Horas",[24H] He Man e Os Defensores do Universo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135514.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/267f1aca98ef975c7b71d78c821e2c2b.jpg" group-title="Canais | 24 Horas",[24H] He Man E Os Mestres do Universo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135516.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/7B7" group-title="Canais | 24 Horas",[24H] Hercules
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47713.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TvJ" group-title="Canais | 24 Horas",[24H] Herculoides
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47714.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47715.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47716.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47717.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47718.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lfE" group-title="Canais | 24 Horas",[24H] Hey Arnold - S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47719.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/paq" group-title="Canais | 24 Horas",[24H] Hickory Dickory e Doc
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47720.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0a885354dffa901597d950508df1ea42.jpg" group-title="Canais | 24 Horas",[24H] High School Musical A Serie O Musical [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138709.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0a885354dffa901597d950508df1ea42.jpg" group-title="Canais | 24 Horas",[24H] High School Musical A Serie O Musical [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138710.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SPl" group-title="Canais | 24 Horas",[24H] Hilda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47721.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/D8R" group-title="Canais | 24 Horas",[24H] Hip Hop Video Traxx
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47722.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8b04aae6a485d7c35696a0476e40d33b.jpg" group-title="Canais | 24 Horas",[24H] Historias Animadas da Biblia - Novo Testamento
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137428.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8b04aae6a485d7c35696a0476e40d33b.jpg" group-title="Canais | 24 Horas",[24H] Historias Animadas da Biblia - Velho Testamento
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137427.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJe" group-title="Canais | 24 Horas",[24H] Historias Animadas do Novo Testamento
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47723.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJe" group-title="Canais | 24 Horas",[24H] Historias Animadas do Velho Testamento
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47724.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uEJ" group-title="Canais | 24 Horas",[24H] Historinhas de Dragoes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47725.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kx6" group-title="Canais | 24 Horas",[24H] Ho Ho Limpicos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47726.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3gl" group-title="Canais | 24 Horas",[24H] Homem Aranha - Acao Sem Limites
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47727.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Kvi" group-title="Canais | 24 Horas",[24H] Homem Passaro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47728.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mXc" group-title="Canais | 24 Horas",[24H] Hong Kong Fu
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47729.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135526.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135525.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135524.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135523.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135521.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135522.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135520.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135519.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135518.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg" group-title="Canais | 24 Horas",[24H] Hora de Aventura [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135517.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ae476479b786f6e326a9ed53263e533a.jpg" group-title="Canais | 24 Horas",[24H] Hora do Recreio
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139278.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/53fb10e6961d3786202efd17daac60eb.jpg" group-title="Canais | 24 Horas",[24H] Hotel Transilvania A Serie
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135512.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Jnj" group-title="Canais | 24 Horas",[24H] Hot Wheels Battle Force 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47730.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fXi" group-title="Canais | 24 Horas",[24H] Hulk
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47731.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2004099e73fdea89e53b2b897e75c29d.jpg" group-title="Canais | 24 Horas",[24H] iCarly (2021)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135455.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/11ba34433b3a505f77c671b569ac0541.jpg" group-title="Canais | 24 Horas",[24H] iCarly [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135506.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/11ba34433b3a505f77c671b569ac0541.jpg" group-title="Canais | 24 Horas",[24H] iCarly [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135507.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/11ba34433b3a505f77c671b569ac0541.jpg" group-title="Canais | 24 Horas",[24H] iCarly [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135508.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/11ba34433b3a505f77c671b569ac0541.jpg" group-title="Canais | 24 Horas",[24H] iCarly [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135509.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/11ba34433b3a505f77c671b569ac0541.jpg" group-title="Canais | 24 Horas",[24H] iCarly [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135510.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/11ba34433b3a505f77c671b569ac0541.jpg" group-title="Canais | 24 Horas",[24H] iCarly [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135511.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1ok" group-title="Canais | 24 Horas",[24H] Ilha dos Desafios
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47739.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SrI" group-title="Canais | 24 Horas",[24H] Inspetor Willoughby
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47740.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/pKA" group-title="Canais | 24 Horas",[24H] Invasor Zin
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47741.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/abdfa8790e3f97d8ed1e8450740cfdf9.jpg" group-title="Canais | 24 Horas",[24H] Irmao do Jorel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135567.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8c27a9a2796894e5d6c36d28a00e32cf.jpg" group-title="Canais | 24 Horas",[24H] Irmaos a Obra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140782.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0bR" group-title="Canais | 24 Horas",[24H] Jambo e Ruivao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47743.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/atE" group-title="Canais | 24 Horas",[24H] Jem e as Hologramas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47745.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fd9d9d438bbc76176331bc9b095ec710.jpg" group-title="Canais | 24 Horas",[24H] Jessie [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139294.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fd9d9d438bbc76176331bc9b095ec710.jpg" group-title="Canais | 24 Horas",[24H] Jessie [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139295.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fd9d9d438bbc76176331bc9b095ec710.jpg" group-title="Canais | 24 Horas",[24H] Jessie [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139296.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/fd9d9d438bbc76176331bc9b095ec710.jpg" group-title="Canais | 24 Horas",[24H] Jessie [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139297.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8949d500f907a826b19d0e4a40f854ec.jpg" group-title="Canais | 24 Horas",[24H] Jiraiya O Incrivel Ninja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135569.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/WbI" group-title="Canais | 24 Horas",[24H] Joao Grandao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47746.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SdQ" group-title="Canais | 24 Horas",[24H] Johnny Bravo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47747.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6c83815e7901f6e3b41ca26d33767f2a.jpg" group-title="Canais | 24 Horas",[24H] Johnny Test
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139298.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BP7" group-title="Canais | 24 Horas",[24H] Jonny Quest
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47748.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/67d742234338eba360da747fd56b9cca.jpg" group-title="Canais | 24 Horas",[24H] Jornada nas Estrelas Enterprise [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139300.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/67d742234338eba360da747fd56b9cca.jpg" group-title="Canais | 24 Horas",[24H] Jornada nas Estrelas Enterprise [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139301.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/67d742234338eba360da747fd56b9cca.jpg" group-title="Canais | 24 Horas",[24H] Jornada nas Estrelas Enterprise [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139302.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/67d742234338eba360da747fd56b9cca.jpg" group-title="Canais | 24 Horas",[24H] Jornada nas Estrelas Enterprise [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139303.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/syE" group-title="Canais | 24 Horas",[24H] Josie e As Gatinhas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47749.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8e00c4bd23067b691e6f943bd3686d7a.jpg" group-title="Canais | 24 Horas",[24H] Jovem Sheldon [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137123.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8e00c4bd23067b691e6f943bd3686d7a.jpg" group-title="Canais | 24 Horas",[24H] Jovem Sheldon [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137124.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8e00c4bd23067b691e6f943bd3686d7a.jpg" group-title="Canais | 24 Horas",[24H] Jovem Sheldon [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137125.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8e00c4bd23067b691e6f943bd3686d7a.jpg" group-title="Canais | 24 Horas",[24H] Jovem Sheldon [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137126.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8e00c4bd23067b691e6f943bd3686d7a.jpg" group-title="Canais | 24 Horas",[24H] Jovem Sheldon [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137127.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/20dd67a55a760c3d8ca8eedeb5ce868d.jpg" group-title="Canais | 24 Horas",[24H] Jovens Construtores
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138947.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ei0" group-title="Canais | 24 Horas",[24H] Jubei Chan The Ninja Girl
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47750.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/eaff40ab54df9a0774368cade437238f.jpg" group-title="Canais | 24 Horas",[24H] Jurassic World Acampamento Jurassico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135561.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e47763a5ac44b2efb22cebb3a0ca21f9.jpg" group-title="Canais | 24 Horas",[24H] Kamp Koral Bob Esponja Primeiros Anos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135562.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/88c798031fa25f9c87cfa4f9d1b4b2a2.jpg" group-title="Canais | 24 Horas",[24H] Kenan e Kel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138955.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jzC" group-title="Canais | 24 Horas",[24H] Kenan e Kell
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47751.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/d98ad142c0f4c03f8f66f8b3e6ebfce1.jpg" group-title="Canais | 24 Horas",[24H] Kevin Pode Esperar [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139275.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/d98ad142c0f4c03f8f66f8b3e6ebfce1.jpg" group-title="Canais | 24 Horas",[24H] Kevin Pode Esperar [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139276.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/v9J" group-title="Canais | 24 Horas",[24H] Kick Buttowski
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47752.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b8edcc64db588084b5e21ca04c891e3d.jpg" group-title="Canais | 24 Horas",[24H] Kick Buttowski
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140533.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zRc" group-title="Canais | 24 Horas",[24H] Kimba
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47754.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/I1L" group-title="Canais | 24 Horas",[24H] Kim Possible
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47753.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/E76" group-title="Canais | 24 Horas",[24H] KND A Turma do Bairro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47755.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c62c915769937b7c65e02a27809ef9bc.jpg" group-title="Canais | 24 Horas",[24H] Kung Fu Panda Lendas do Dragao Guerreiro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138948.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e8ab7c1be34bca52b535bf0466e17fb0.jpg" group-title="Canais | 24 Horas",[24H] Lab Rats
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138949.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/862475b2784f6c6144be3bc64532fea7.jpg" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140737.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/862475b2784f6c6144be3bc64532fea7.jpg" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140738.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/862475b2784f6c6144be3bc64532fea7.jpg" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140739.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/862475b2784f6c6144be3bc64532fea7.jpg" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140740.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/862475b2784f6c6144be3bc64532fea7.jpg" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140741.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DtV" group-title="Canais | 24 Horas",[24H] Larvas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47759.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uNO" group-title="Canais | 24 Horas",[24H] Lazy Town
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47760.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mpu" group-title="Canais | 24 Horas",[24H] Leao da Montanha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47761.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YIi" group-title="Canais | 24 Horas",[24H] Leo o caminhao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47762.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/72b7a023e6476367adb2bae9b50969c5.jpg" group-title="Canais | 24 Horas",[24H] Liga da Justica Sem Limites
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138950.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/xa4" group-title="Canais | 24 Horas",[24H] Ligeirinho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47763.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dWr" group-title="Canais | 24 Horas",[24H] Lil Bush (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47764.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/axy" group-title="Canais | 24 Horas",[24H] Lilo e Stitch
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47765.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ige" group-title="Canais | 24 Horas",[24H] Lippy e Hardy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47766.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/79e95b4a31ae3d0ffbd7e35b280852b3.jpg" group-title="Canais | 24 Horas",[24H] Lois e Clark As Novas Aventuras do Superman [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135563.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/79e95b4a31ae3d0ffbd7e35b280852b3.jpg" group-title="Canais | 24 Horas",[24H] Lois e Clark As Novas Aventuras do Superman [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135564.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/79e95b4a31ae3d0ffbd7e35b280852b3.jpg" group-title="Canais | 24 Horas",[24H] Lois e Clark As Novas Aventuras do Superman [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135565.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/79e95b4a31ae3d0ffbd7e35b280852b3.jpg" group-title="Canais | 24 Horas",[24H] Lois e Clark As Novas Aventuras do Superman [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135566.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kCh" group-title="Canais | 24 Horas",[24H] Lorde Gato e a Turma do Abobrinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47767.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/h98" group-title="Canais | 24 Horas",[24H] Luluzinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47769.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/V3T" group-title="Canais | 24 Horas",[24H] Madeline
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47770.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fEf" group-title="Canais | 24 Horas",[24H] Mae e Pai - Curta Metragem
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47771.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JFj" group-title="Canais | 24 Horas",[24H] Maguila O Gorila
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47772.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Dms" group-title="Canais | 24 Horas",[24H] Manual do Ned
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47774.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rj5" group-title="Canais | 24 Horas",[24H] Marcelino Pao e Vinho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47775.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VW4" group-title="Canais | 24 Horas",[24H] Marsupilami
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47776.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rLO" group-title="Canais | 24 Horas",[24H] Martin Mystery
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47777.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/23e7649c3b89b2b9d3bdc17ff9952651.jpg" group-title="Canais | 24 Horas",[24H] Marvels M.O.D.O.K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136816.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6cb80ea8c36ee3711e08d8fb156748a1.jpg" group-title="Canais | 24 Horas",[24H] Masha e o Urso
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137619.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137146.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137147.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137148.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137149.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137150.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137151.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137152.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg" group-title="Canais | 24 Horas",[24H] Masterchef Brasil [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137153.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2So" group-title="Canais | 24 Horas",[24H] Matracatrica e Fofoquinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47778.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mNq" group-title="Canais | 24 Horas",[24H] Mecanimais
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47779.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ElM" group-title="Canais | 24 Horas",[24H] Medabots
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47780.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/r1A" group-title="Canais | 24 Horas",[24H] Megaman
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47781.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a976791b0d45ccd5603e7ce22a329936.jpg" group-title="Canais | 24 Horas",[24H] Mega Man Potencia Maxima
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137128.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rWf" group-title="Canais | 24 Horas",[24H] Megas XRL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47782.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a2ca5678c188b08d7d74c8c1e85af331.jpg" group-title="Canais | 24 Horas",[24H] Mestre do Sabor [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137154.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a2ca5678c188b08d7d74c8c1e85af331.jpg" group-title="Canais | 24 Horas",[24H] Mestre do Sabor [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137155.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a2ca5678c188b08d7d74c8c1e85af331.jpg" group-title="Canais | 24 Horas",[24H] Mestre do Sabor [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137156.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/401f441af8a5f5b0211c085d1d755d95.jpg" group-title="Canais | 24 Horas",[24H] Mestres da Sobrevivencia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137129.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/d7f88676cf20803254160bff98b3a005.jpg" group-title="Canais | 24 Horas",[24H] Mestres de Ferro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137157.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/904a4cc6941f67e6fe848ae69163c1d7.jpg" group-title="Canais | 24 Horas",[24H] Mestres do Universo Salvando Eternia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137158.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BEr" group-title="Canais | 24 Horas",[24H] Meu Melhor Amigo da Escola e Um Macaco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47783.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NR2" group-title="Canais | 24 Horas",[24H] MIB - Homens de Preto
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47784.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/cfdde90b0e365d43e4fae57a510a1bb5.jpg" group-title="Canais | 24 Horas",[24H] Mickey e Donald
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140742.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/f7m" group-title="Canais | 24 Horas",[24H] Migthor
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47785.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KMl" group-title="Canais | 24 Horas",[24H] Mini Polegar e Yougui
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47786.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/017bcee0f41381fdd4db67aa0b3df7bf.jpg" group-title="Canais | 24 Horas",[24H] Miraculous As Aventuras de Ladybug
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137159.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wX6" group-title="Canais | 24 Horas",[24H] Mission Hill
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47787.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0451a159ca67980f36e1b44b714cf241.jpg" group-title="Canais | 24 Horas",[24H] Mister Brau
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138951.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ma9" group-title="Canais | 24 Horas",[24H] Mister Magoo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47788.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/vuy" group-title="Canais | 24 Horas",[24H] Moby Dick
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47789.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/c6w" group-title="Canais | 24 Horas",[24H] Monster Rancher
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47790.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/y7m" group-title="Canais | 24 Horas",[24H] Moranguinho Classico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47791.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ud1" group-title="Canais | 24 Horas",[24H] Mortal Kombat
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47792.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee0438b4c0f898545422b05f55c523ab.jpg" group-title="Canais | 24 Horas",[24H] Mortal Kombat Defensores da Terra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139299.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/L3d" group-title="Canais | 24 Horas",[24H] Mosquito Mosquete e Moscardo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47793.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Apa" group-title="Canais | 24 Horas",[24H] Mr. Bean
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47794.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/76f472c867c6cae1d3f0d382e3a3900f.jpg" group-title="Canais | 24 Horas",[24H] Mucha Lucha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138952.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/997d5c735a12c2829ce501946bd02a89.jpg" group-title="Canais | 24 Horas",[24H] Mundo Bita
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135452.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/10472ceca6472abb87bd23d3f6188e9a.jpg" group-title="Canais | 24 Horas",[24H] Mundo Bita e a Natureza
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135498.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c85141e7a83393f8c264c469ac01168e.jpg" group-title="Canais | 24 Horas",[24H] Mundo Bita e as Brincadeiras
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135497.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d9215d2a4f696f5fb4ecffaae443433.jpg" group-title="Canais | 24 Horas",[24H] Mundo Bita e o Corpo Humano
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135496.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2463a92257a23cc03ad12aa680f3b4ef.jpg" group-title="Canais | 24 Horas",[24H] Mundo Bita e o Nosso Dia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135495.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bdcaa3573f5f6f5c3cec206f84298f3c.jpg" group-title="Canais | 24 Horas",[24H] Mundo Bita e os Animais
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135494.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cbt" group-title="Canais | 24 Horas",[24H] Musculo Total
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47796.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dTt" group-title="Canais | 24 Horas",[24H] Mutante Rex
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47797.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/m0J" group-title="Canais | 24 Horas",[24H] Narcos - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47798.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/m0J" group-title="Canais | 24 Horas",[24H] Narcos - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47799.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47800.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47801.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47802.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47803.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47804.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47805.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47806.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47807.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2sX" group-title="Canais | 24 Horas",[24H] Naruto Classico - S09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47808.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Qvb" group-title="Canais | 24 Horas",[24H] No Limite
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47809.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/hjw" group-title="Canais | 24 Horas",[24H] Novo Banana de Pijamas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47810.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Pv3" group-title="Canais | 24 Horas",[24H] O Acampamento de Lazlo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47811.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/PIn" group-title="Canais | 24 Horas",[24H] O Chapolin Colorado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47812.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/766f706b80c9801301766199fc6be697.jpg" group-title="Canais | 24 Horas",[24H] O Chefinho De Volta aos Negocios
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138953.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JxK" group-title="Canais | 24 Horas",[24H] O Coisa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47813.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/207627bdc379804843b06b2ccb3ea26d.jpg" group-title="Canais | 24 Horas",[24H] O Fantastico Jaspion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135568.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b0a87618689450e77c7653b51ded5785.jpg" group-title="Canais | 24 Horas",[24H] O Fantastico Mundo de Bobby
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138940.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/arF" group-title="Canais | 24 Horas",[24H] O Fantastico Mundo de Bobby
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47814.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rqB" group-title="Canais | 24 Horas",[24H] O Gato de Botas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47815.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/5bL" group-title="Canais | 24 Horas",[24H] Oggy e as Baratas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47830.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lLb" group-title="Canais | 24 Horas",[24H] O Inspetor
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47816.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4wl" group-title="Canais | 24 Horas",[24H] O Maskara - Serie Animada
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47817.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N2x" group-title="Canais | 24 Horas",[24H] O Onibus Magico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47818.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/O03" group-title="Canais | 24 Horas",[24H] O Pequeno Principe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47819.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ReI" group-title="Canais | 24 Horas",[24H] O Pequeno Scooby Doo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47820.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yib" group-title="Canais | 24 Horas",[24H] O Pequeno Urso
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47821.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/86f7df74a2ee0dfe6e1466767f0eb8e0.jpg" group-title="Canais | 24 Horas",[24H] Operacao Big Hero
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137430.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9349faf92a2b3164a37f6ef863b4ebbe.jpg" group-title="Canais | 24 Horas",[24H] Operacao Fronteira America do Sul
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139304.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/hzf" group-title="Canais | 24 Horas",[24H] O Que Ha de Novo Scooby Doo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47822.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2eca1eb67060a6f3975109a5c23ca684.jpg" group-title="Canais | 24 Horas",[24H] O Rancho [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138956.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2eca1eb67060a6f3975109a5c23ca684.jpg" group-title="Canais | 24 Horas",[24H] O Rancho [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138957.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2eca1eb67060a6f3975109a5c23ca684.jpg" group-title="Canais | 24 Horas",[24H] O Rancho [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138958.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2eca1eb67060a6f3975109a5c23ca684.jpg" group-title="Canais | 24 Horas",[24H] O Rancho [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138959.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ret" group-title="Canais | 24 Horas",[24H] O Rei do Pedaco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47823.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ZbT" group-title="Canais | 24 Horas",[24H] Os Animais do Bosque dos Vintens
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47831.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cE0" group-title="Canais | 24 Horas",[24H] Os Apuros de Penelope
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47833.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/1df2bf44c370dec53ef3a7433ae588d0.jpg" group-title="Canais | 24 Horas",[24H] Os Astronautas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137431.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b31008ffbfddafd3648c280ca2490d13.jpg" group-title="Canais | 24 Horas",[24H] Os Backyardigans
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/141495.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ABp" group-title="Canais | 24 Horas",[24H] Os Castores Pirados
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47834.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9f1aee7c3e06dbe29b0739b5593a57b8.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco - Alma de Ouro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137135.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/d2191aad1b6d986467dbea8c523902f6.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco - Omega
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138954.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco - Saga de Asgard [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137131.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco - Saga de Hades [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137133.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco - Saga de Poseidon [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137132.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco - Saga do Santuario [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137130.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9f1aee7c3e06dbe29b0739b5593a57b8.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco - The Lost Canvas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137134.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/17e9742e7addedb1da426ab7bc5b23a0.jpg" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodíaco Saint Seiya
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137136.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/x8v" group-title="Canais | 24 Horas",[24H] O Segredo Alem do Jardim
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47824.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tko" group-title="Canais | 24 Horas",[24H] Os Feiticeiros De Waverly Place
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47840.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c245ac1207112eac49f079d8fe0cd38.jpg" group-title="Canais | 24 Horas",[24H] Os Feiticeiros De Waverly Place [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138960.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c245ac1207112eac49f079d8fe0cd38.jpg" group-title="Canais | 24 Horas",[24H] Os Feiticeiros De Waverly Place [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138961.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c245ac1207112eac49f079d8fe0cd38.jpg" group-title="Canais | 24 Horas",[24H] Os Feiticeiros De Waverly Place [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138962.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c245ac1207112eac49f079d8fe0cd38.jpg" group-title="Canais | 24 Horas",[24H] Os Feiticeiros De Waverly Place [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138963.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47841.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47842.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47843.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47844.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47845.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/f9l" group-title="Canais | 24 Horas",[24H] Os Flinstones - S06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47846.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KYG" group-title="Canais | 24 Horas",[24H] Os Gargulas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47847.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ec286f6f4e078d86188c388f64eefd8d.jpg" group-title="Canais | 24 Horas",[24H] Os Guerreiros Wasabi [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137160.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ec286f6f4e078d86188c388f64eefd8d.jpg" group-title="Canais | 24 Horas",[24H] Os Guerreiros Wasabi [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137161.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ec286f6f4e078d86188c388f64eefd8d.jpg" group-title="Canais | 24 Horas",[24H] Os Guerreiros Wasabi [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137162.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ec286f6f4e078d86188c388f64eefd8d.jpg" group-title="Canais | 24 Horas",[24H] Os Guerreiros Wasabi [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137163.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2d51ddbe094c7f9e988509a30349383c.jpg" group-title="Canais | 24 Horas",[24H] Os Herculoides
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137164.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3940a20bb5eb7095f88f7424610bd167.jpg" group-title="Canais | 24 Horas",[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137169.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3940a20bb5eb7095f88f7424610bd167.jpg" group-title="Canais | 24 Horas",[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137170.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3940a20bb5eb7095f88f7424610bd167.jpg" group-title="Canais | 24 Horas",[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137171.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3940a20bb5eb7095f88f7424610bd167.jpg" group-title="Canais | 24 Horas",[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137172.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XXT" group-title="Canais | 24 Horas",[24H] O Show da Luna
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47825.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0a34c73e711e84e3d33a7881ad7ebad2.jpg" group-title="Canais | 24 Horas",[24H] O Show de Tom e Jerry
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140743.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/48abed8eb145763b5fd75a8e29304261.jpg" group-title="Canais | 24 Horas",[24H] O Show do Garfield
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137429.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DoY" group-title="Canais | 24 Horas",[24H] O Show do Novo Pica-Pau
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47826.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fci" group-title="Canais | 24 Horas",[24H] O Show do Ze Colmeia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47827.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/AYo" group-title="Canais | 24 Horas",[24H] Os Impossiveis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47848.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/42328002e26a63d990d79b254a20cc92.jpg" group-title="Canais | 24 Horas",[24H] Os Incriveis Espioes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140744.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7fb3281f1452aeeec851ae03a1272be9.jpg" group-title="Canais | 24 Horas",[24H] Os Jetsons
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137165.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MTm" group-title="Canais | 24 Horas",[24H] Os Jorges
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47850.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/82o" group-title="Canais | 24 Horas",[24H] Os Jovens Titans
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47851.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b8c87e1e488092dc5c0d1504de76ed0d.jpg" group-title="Canais | 24 Horas",[24H] Os Misterios de Frajola e Piu Piu
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138027.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f1cf4a6f9102f64075948c82c8d57e6f.jpg" group-title="Canais | 24 Horas",[24H] Os Normais
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137168.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/25ab35302a0e54c4d84112a2b13e2c1d.jpg" group-title="Canais | 24 Horas",[24H] O Socio
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137167.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0e8515b81340f328f4fb962042f41c17.jpg" group-title="Canais | 24 Horas",[24H] Os Padrinhos Magicos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135546.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2yV" group-title="Canais | 24 Horas",[24H] Os Pinguins de Madagascar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47852.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7ca5c3d61f0e485f679f6e1a6a891077.jpg" group-title="Canais | 24 Horas",[24H] Os Roni
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138964.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i8n" group-title="Canais | 24 Horas",[24H] Os Sete Monstrinhos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47853.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135601.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135600.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135599.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135598.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135597.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135596.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135595.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135594.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135593.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135592.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135591.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135590.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S13]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135589.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S14]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135588.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S15]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135587.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S16]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135586.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S17]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135585.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S18]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135584.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S19]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135583.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S20]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135582.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S21]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135581.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S22]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135580.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S23]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135579.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S24]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135578.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S25]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135577.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S26]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135576.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S27]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135575.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S28]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135574.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S29]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135573.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S30]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135572.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S31]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135571.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | 24 Horas",[24H] Os Simpsons [S32]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135570.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3268421e5f7a6d716d9b29f0a688edd4.jpg" group-title="Canais | 24 Horas",[24H] Os Smurfs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136817.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6tw" group-title="Canais | 24 Horas",[24H] Os Super Globetrotters
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47882.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/lnS" group-title="Canais | 24 Horas",[24H] Os Super Patos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47883.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/12974ab98ebc867d84f90a200688d1ad.jpg" group-title="Canais | 24 Horas",[24H] Os Thundermans [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137432.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/12974ab98ebc867d84f90a200688d1ad.jpg" group-title="Canais | 24 Horas",[24H] Os Thundermans [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137433.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/12974ab98ebc867d84f90a200688d1ad.jpg" group-title="Canais | 24 Horas",[24H] Os Thundermans [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137434.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/xTc" group-title="Canais | 24 Horas",[24H] Os Trapalhoes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47884.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/xTc" group-title="Canais | 24 Horas",[24H] Os Trapalhoes Classico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47885.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/to5" group-title="Canais | 24 Horas",[24H] Os Ursinhos Gummi
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47886.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f48fb74314aded186637579c2047254f.jpg" group-title="Canais | 24 Horas",[24H] Os Ursinhos Gummi
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140745.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gsy" group-title="Canais | 24 Horas",[24H] Os Valentes Cowboys de Moo Mesa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47887.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Z7k" group-title="Canais | 24 Horas",[24H] Os Videos Mais Incriveis do Mundo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47888.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/UT5" group-title="Canais | 24 Horas",[24H] Os Vingadores
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47889.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VnN" group-title="Canais | 24 Horas",[24H] Oswaldo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47890.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tTS" group-title="Canais | 24 Horas",[24H] Overman - Curta Metragem
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47891.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DeO" group-title="Canais | 24 Horas",[24H] O Viralata
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47828.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mLo" group-title="Canais | 24 Horas",[24H] O Xodo da Vovo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47829.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gxQ" group-title="Canais | 24 Horas",[24H] Papa-Leguas e o Coyote
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47892.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Dormir
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47893.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47894.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47895.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47896.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Natureza 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47897.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/fFh" group-title="Canais | 24 Horas",[24H] Para Relaxar - Oceano
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47898.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/GFA" group-title="Canais | 24 Horas",[24H] Partoba
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47899.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eZD" group-title="Canais | 24 Horas",[24H] Patlabor
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47900.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/51a9a083b2e5c7f4babdd23e639dddab.jpg" group-title="Canais | 24 Horas",[24H] Patrulha Canina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135547.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Peu" group-title="Canais | 24 Horas",[24H] Patrulha Estelar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47904.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Cameras Escondidas Silvio Santos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47905.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas da RedeTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47906.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/a0N" group-title="Canais | 24 Horas",[24H] Pegadinhas Jalals
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47907.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Joao Kleber
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47908.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Silvio Santos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47909.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ouk" group-title="Canais | 24 Horas",[24H] Pepe Le Pew
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47911.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/351ddd0a28cd0dbdef00035885154cae.jpg" group-title="Canais | 24 Horas",[24H] Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135548.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2WY" group-title="Canais | 24 Horas",[24H] Perdido Nas Estrelas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47912.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/GRW" group-title="Canais | 24 Horas",[24H] Perdidos no Espaco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47913.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3xR" group-title="Canais | 24 Horas",[24H] Pernalonga e Sua Turma
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47914.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f89eeb8e366ab00cef9786081728e619.jpg" group-title="Canais | 24 Horas",[24H] Pesadelo Na Cozinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138722.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a2ac1b39c456883c118803c18758cb02.jpg" group-title="Canais | 24 Horas",[24H] Pestinha e Feroz
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135501.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NTu" group-title="Canais | 24 Horas",[24H] Peter Potamus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47915.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7dfb661865dc2936600db7c08f2ad87d.jpg" group-title="Canais | 24 Horas",[24H] Phineas e Ferb
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135499.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f79bcb884e527ee6b4fec8e12ffab733.jpg" group-title="Canais | 24 Horas",[24H] Pica Pau
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136821.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4HB" group-title="Canais | 24 Horas",[24H] Picolino
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47918.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/9HH" group-title="Canais | 24 Horas",[24H] Pingu
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47919.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ja6" group-title="Canais | 24 Horas",[24H] Pinky e Cerebro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47920.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jO1" group-title="Canais | 24 Horas",[24H] Planet Survival
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47921.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/b3X" group-title="Canais | 24 Horas",[24H] Plic Ploc e Chuvisco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47922.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2018fad929e538912e73b6f75448a1ea.jpg" group-title="Canais | 24 Horas",[24H] Pocoyo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137435.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138791.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138792.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138793.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138794.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138795.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138796.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138797.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138798.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138799.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138800.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138801.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138802.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S13]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138803.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S14]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138804.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S15]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138805.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S16]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138806.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S17]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138807.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S18]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138808.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S19]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138809.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S20]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138810.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | 24 Horas",[24H] Pokemon [S21]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138811.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tbX" group-title="Canais | 24 Horas",[24H] Poleposition
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47936.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/GeX" group-title="Canais | 24 Horas",[24H] Policia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47937.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0Zv" group-title="Canais | 24 Horas",[24H] Popeye
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47938.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/292cb3546f2e5f3d19d8409aced392e0.jpg" group-title="Canais | 24 Horas",[24H] Popeye
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140534.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/hei" group-title="Canais | 24 Horas",[24H] Power Rangers - A Galaxia Perdida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47939.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eDZ" group-title="Canais | 24 Horas",[24H] Power Rangers - Dino Thunder
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47940.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eI8" group-title="Canais | 24 Horas",[24H] Power Rangers - Mighty Morphin - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47941.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eI8" group-title="Canais | 24 Horas",[24H] Power Rangers - Mighty Morphin - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47942.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eI8" group-title="Canais | 24 Horas",[24H] Power Rangers - Mighty Morphin - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47943.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/n26" group-title="Canais | 24 Horas",[24H] Power Rangers - Ninja Storm
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47944.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/EBd" group-title="Canais | 24 Horas",[24H] Power Rangers - Space Patrol Delta
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47945.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VO6" group-title="Canais | 24 Horas",[24H] Power Rangers - Turbo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47946.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CFK" group-title="Canais | 24 Horas",[24H] Power Rangers - Zeo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47947.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1nz" group-title="Canais | 24 Horas",[24H] Power Stone
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47948.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qGp" group-title="Canais | 24 Horas",[24H] Projeto Zeta
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47949.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/bz6" group-title="Canais | 24 Horas",[24H] Putz a Coisa ta Feia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47950.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/40e303224a1977f77896cfa33ac3e73e.jpg" group-title="Canais | 24 Horas",[24H] Quilos Mortais
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136820.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/I80" group-title="Canais | 24 Horas",[24H] Ragnarok
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47951.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d23" group-title="Canais | 24 Horas",[24H] Recruta Zero
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47952.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Wzo" group-title="Canais | 24 Horas",[24H] Redakai
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47953.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qMx" group-title="Canais | 24 Horas",[24H] Ren e Stimpy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47954.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c7b1b25c9f2ea801217b643b6cdbe112.jpg" group-title="Canais | 24 Horas",[24H] Ridley Jones A Guardia do Museu
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137436.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/89d62f56503439703211a87af5b7d44c.jpg" group-title="Canais | 24 Horas",[24H] Riquinho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140746.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/7iw" group-title="Canais | 24 Horas",[24H] Riquinho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47955.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9fc44d69a72432b4975f944fcb20febe.jpg" group-title="Canais | 24 Horas",[24H] Rocketeer
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137437.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d2X" group-title="Canais | 24 Horas",[24H] Rocket Power
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47956.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c6e4ff3b4ba96e7f2a25988fb8334969.jpg" group-title="Canais | 24 Horas",[24H] Rocky e Hudson Os Caubois Gays
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137438.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/60c63029343cec001234241419e4004d.jpg" group-title="Canais | 24 Horas",[24H] Rua Dalmatas 101
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137439.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/R3G" group-title="Canais | 24 Horas",[24H] Rugrats os Anjinhos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47957.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mpN" group-title="Canais | 24 Horas",[24H] Sabados Secretos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47958.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/xiH" group-title="Canais | 24 Horas",[24H] Sagwa a Gatinha Siamesa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47959.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140747.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140748.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140749.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140750.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140751.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140752.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140753.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg" group-title="Canais | 24 Horas",[24H] Sai de Baixo [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140754.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/cdd465b40567396b9067061edcf9ca65.jpg" group-title="Canais | 24 Horas",[24H] Sailor Moon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140755.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ql9" group-title="Canais | 24 Horas",[24H] Sakura Card Captors
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47968.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QVH" group-title="Canais | 24 Horas",[24H] Samurai Champloo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47969.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6v0" group-title="Canais | 24 Horas",[24H] Samurai Warriors
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47970.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SyP" group-title="Canais | 24 Horas",[24H] Scoob Doo Show
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47971.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg" group-title="Canais | 24 Horas",[24H] Sessao de Terapia [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137106.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg" group-title="Canais | 24 Horas",[24H] Sessao de Terapia [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137107.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg" group-title="Canais | 24 Horas",[24H] Sessao de Terapia [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137108.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg" group-title="Canais | 24 Horas",[24H] Sessao de Terapia [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137109.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg" group-title="Canais | 24 Horas",[24H] Sessao de Terapia [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137110.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/bJ0" group-title="Canais | 24 Horas",[24H] Shaman King
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47972.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5461c463853f649ff8a78546952f9974.jpg" group-title="Canais | 24 Horas",[24H] Shark Tank Brasil [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137100.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5461c463853f649ff8a78546952f9974.jpg" group-title="Canais | 24 Horas",[24H] Shark Tank Brasil [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137101.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5461c463853f649ff8a78546952f9974.jpg" group-title="Canais | 24 Horas",[24H] Shark Tank Brasil [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137102.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5461c463853f649ff8a78546952f9974.jpg" group-title="Canais | 24 Horas",[24H] Shark Tank Brasil [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137103.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5461c463853f649ff8a78546952f9974.jpg" group-title="Canais | 24 Horas",[24H] Shark Tank Brasil [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137104.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5461c463853f649ff8a78546952f9974.jpg" group-title="Canais | 24 Horas",[24H] Shark Tank Brasil [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137105.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kyA" group-title="Canais | 24 Horas",[24H] Shazzan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47973.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5b06ef082e7877c9e7bc9c2da9340e8f.jpg" group-title="Canais | 24 Horas",[24H] She Ra A Princesa Do Poder
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137617.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/p78" group-title="Canais | 24 Horas",[24H] Shinzo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47975.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66725d2b338a14647f8c0b35700a31c9.jpg" group-title="Canais | 24 Horas",[24H] Show do Milhao PicPay
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137615.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jmV" group-title="Canais | 24 Horas",[24H] Shurato
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47976.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/GuJ" group-title="Canais | 24 Horas",[24H] Shuriken School
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47977.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SyF" group-title="Canais | 24 Horas",[24H] Silverhawks [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47978.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Tkz" group-title="Canais | 24 Horas",[24H] Sitio do Pica Pau Amarelo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47979.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47980.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47981.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47982.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47983.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47984.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47985.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47986.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47987.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47988.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Yzk" group-title="Canais | 24 Horas",[24H] Smallville - S10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47989.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8b62babe33fdcd8041ac9424262c834f.jpg" group-title="Canais | 24 Horas",[24H] Snoopy e Sua Turma
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137027.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f0e2938948d52380ad6a365a13195f29.jpg" group-title="Canais | 24 Horas",[24H] Soltos em Floripa [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137028.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f0e2938948d52380ad6a365a13195f29.jpg" group-title="Canais | 24 Horas",[24H] Soltos em Floripa [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137029.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/F1A" group-title="Canais | 24 Horas",[24H] Sonic Boom
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47990.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/F1A" group-title="Canais | 24 Horas",[24H] Sonic X
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/47991.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/283d6ae80cd164423086a77999c73431.jpg" group-title="Canais | 24 Horas",[24H] Sonny Boy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137616.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/698faa84f217110049476f03153fa730.jpg" group-title="Canais | 24 Horas",[24H] SOS Cachorrinhos [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137030.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137031.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137032.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137033.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137034.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137035.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137036.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137037.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137038.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137039.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137040.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137041.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137042.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S13]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137043.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S14]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137044.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S15]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137045.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S16]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137046.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S17]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137047.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S18]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137048.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S19]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137049.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S20]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137050.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S21]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137051.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S22]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137052.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S23]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137053.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais | 24 Horas",[24H] South Park [S24]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137054.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/5XW" group-title="Canais | 24 Horas",[24H] Space Goofs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48013.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/AJA" group-title="Canais | 24 Horas",[24H] Space Gost
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48014.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VXM" group-title="Canais | 24 Horas",[24H] Speed Racer - A Nova Geracao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48015.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VXM" group-title="Canais | 24 Horas",[24H] Speed Racer - Classico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48016.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | 24 Horas",[24H] Star Trek Discovery [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137055.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | 24 Horas",[24H] Star Trek Discovery [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137056.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | 24 Horas",[24H] Star Trek Discovery [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137057.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9ae752c0c2d18ad9f9b1c3bd8ac2f8d4.jpg" group-title="Canais | 24 Horas",[24H] Star Trek Lower Decks [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137058.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9ae752c0c2d18ad9f9b1c3bd8ac2f8d4.jpg" group-title="Canais | 24 Horas",[24H] Star Trek Lower Decks [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137059.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dc45fadfffabb74c403ffe84085e5172.jpg" group-title="Canais | 24 Horas",[24H] Star vs. As Forcas do Mal [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137060.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dc45fadfffabb74c403ffe84085e5172.jpg" group-title="Canais | 24 Horas",[24H] Star vs. As Forcas do Mal [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137061.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dc45fadfffabb74c403ffe84085e5172.jpg" group-title="Canais | 24 Horas",[24H] Star vs. As Forcas do Mal [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137062.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dc45fadfffabb74c403ffe84085e5172.jpg" group-title="Canais | 24 Horas",[24H] Star vs. As Forcas do Mal [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137063.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | 24 Horas",[24H] Star Wars A Guerra dos Clones [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137064.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | 24 Horas",[24H] Star Wars A Guerra dos Clones [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137065.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | 24 Horas",[24H] Star Wars A Guerra dos Clones [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137066.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | 24 Horas",[24H] Star Wars A Guerra dos Clones [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137067.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | 24 Horas",[24H] Star Wars A Guerra dos Clones [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137068.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | 24 Horas",[24H] Star Wars A Guerra dos Clones [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137069.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | 24 Horas",[24H] Star Wars A Guerra dos Clones [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137070.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | 24 Horas",[24H] Star Wars Rebels [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137072.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | 24 Horas",[24H] Star Wars Rebels [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137073.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | 24 Horas",[24H] Star Wars Rebels [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137074.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | 24 Horas",[24H] Star Wars Rebels [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137075.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/46eff89e5460ed2103a0ba46103d451e.jpg" group-title="Canais | 24 Horas",[24H] Star Wars The Bad Batch [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137071.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a10093759bbca1def49ccec8c6a0f405.jpg" group-title="Canais | 24 Horas",[24H] Star Wars Visions [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137076.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/38ffa52836c85139efb44a7b9095e705.jpg" group-title="Canais | 24 Horas",[24H] Steven Universo Futuro [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137082.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/951813986e0e57e790e440ae216ea20e.jpg" group-title="Canais | 24 Horas",[24H] Steven Universo [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137077.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/951813986e0e57e790e440ae216ea20e.jpg" group-title="Canais | 24 Horas",[24H] Steven Universo [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137078.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/951813986e0e57e790e440ae216ea20e.jpg" group-title="Canais | 24 Horas",[24H] Steven Universo [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137079.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/951813986e0e57e790e440ae216ea20e.jpg" group-title="Canais | 24 Horas",[24H] Steven Universo [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137080.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/951813986e0e57e790e440ae216ea20e.jpg" group-title="Canais | 24 Horas",[24H] Steven Universo [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137081.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mbn" group-title="Canais | 24 Horas",[24H] Super Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48017.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ffce88154ba1c36897d01c26a4629b54.jpg" group-title="Canais | 24 Horas",[24H] Super Choque
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140535.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KVH" group-title="Canais | 24 Horas",[24H] Super Galo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48018.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b55080d5c452c6db7e25d89271b634f6.jpg" group-title="Canais | 24 Horas",[24H] Super Hero Girls [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137083.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/da70ada06fbddeea7f741726a829cac2.jpg" group-title="Canais | 24 Horas",[24H] Supermaes [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138723.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/da70ada06fbddeea7f741726a829cac2.jpg" group-title="Canais | 24 Horas",[24H] Supermaes [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138724.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/da70ada06fbddeea7f741726a829cac2.jpg" group-title="Canais | 24 Horas",[24H] Supermaes [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138725.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/da70ada06fbddeea7f741726a829cac2.jpg" group-title="Canais | 24 Horas",[24H] Supermaes [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138726.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/da70ada06fbddeea7f741726a829cac2.jpg" group-title="Canais | 24 Horas",[24H] Supermaes [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138727.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/430257d8ec1848dc5d754b1af5c533bb.jpg" group-title="Canais | 24 Horas",[24H] Superman A Serie Animada [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137084.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/430257d8ec1848dc5d754b1af5c533bb.jpg" group-title="Canais | 24 Horas",[24H] Superman A Serie Animada [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137085.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/430257d8ec1848dc5d754b1af5c533bb.jpg" group-title="Canais | 24 Horas",[24H] Superman A Serie Animada [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137086.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XsN" group-title="Canais | 24 Horas",[24H] Super Mario Bros 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48019.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136726.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S01] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136741.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136727.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S02] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136742.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136728.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S03] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136743.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136729.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S04] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136744.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136730.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S05] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136745.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136731.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S06] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136746.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136732.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S07] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136747.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136733.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S08] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136748.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136734.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S09] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136749.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136735.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136736.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136737.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S12] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136752.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S13]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136738.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S13] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136753.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S14]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136739.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S14] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136754.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S15]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136740.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | 24 Horas",[24H] Supernatural [S15] [L]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136755.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/hpe" group-title="Canais | 24 Horas",[24H] Swat Kats
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48034.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/15e33e0696bca298b9d73aa66f162fcf.jpg" group-title="Canais | 24 Horas",[24H] Sítio do Picapau Amarelo (1977) [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137024.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/15e33e0696bca298b9d73aa66f162fcf.jpg" group-title="Canais | 24 Horas",[24H] Sítio do Picapau Amarelo (1977) [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137025.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/15e33e0696bca298b9d73aa66f162fcf.jpg" group-title="Canais | 24 Horas",[24H] Sítio do Picapau Amarelo (1977) [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137026.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c2dbafa12cdd41b1a384ea0b5bd88e45.jpg" group-title="Canais | 24 Horas",[24H] Tapas e Beijos [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137111.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c2dbafa12cdd41b1a384ea0b5bd88e45.jpg" group-title="Canais | 24 Horas",[24H] Tapas e Beijos [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137112.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c2dbafa12cdd41b1a384ea0b5bd88e45.jpg" group-title="Canais | 24 Horas",[24H] Tapas e Beijos [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137113.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c2dbafa12cdd41b1a384ea0b5bd88e45.jpg" group-title="Canais | 24 Horas",[24H] Tapas e Beijos [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137114.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c2dbafa12cdd41b1a384ea0b5bd88e45.jpg" group-title="Canais | 24 Horas",[24H] Tapas e Beijos [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137115.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3daec235aae4221c826efc523a750ca6.jpg" group-title="Canais | 24 Horas",[24H] Ta Puxado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140756.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2Kw" group-title="Canais | 24 Horas",[24H] Tartaruga Touche e Dum Dum
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48035.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jKz" group-title="Canais | 24 Horas",[24H] Tarzan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48036.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u9T" group-title="Canais | 24 Horas",[24H] Tarzan O Rei da Selva
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48037.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/OnF" group-title="Canais | 24 Horas",[24H] Taz-Mania
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48038.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b4376ec8f75da613525f521e67e1c1a6.jpg" group-title="Canais | 24 Horas",[24H] Taz Mania
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140757.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mbf" group-title="Canais | 24 Horas",[24H] Team Galaxy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48039.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ECR" group-title="Canais | 24 Horas",[24H] Teletubbies Classico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48040.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YFx" group-title="Canais | 24 Horas",[24H] Teletubbies Novo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48041.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/aOU" group-title="Canais | 24 Horas",[24H] Teletubbies Stop Motion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48042.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/o1z" group-title="Canais | 24 Horas",[24H] Teste de Fidelidade
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48043.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135456.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135457.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135458.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135459.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135460.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135461.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135462.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135463.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135464.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S10]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135465.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S11]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135466.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | 24 Horas",[24H] The Big Bang Theory [S12]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135467.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | 24 Horas",[24H] The O.C. Um Estranho no Paraiso [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137087.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | 24 Horas",[24H] The O.C. Um Estranho no Paraiso [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137088.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | 24 Horas",[24H] The O.C. Um Estranho no Paraiso [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137089.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | 24 Horas",[24H] The O.C. Um Estranho no Paraiso [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137090.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/9QP" group-title="Canais | 24 Horas",[24H] The Oblongs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48056.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6jG" group-title="Canais | 24 Horas",[24H] Thomas e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48057.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/7e47961ec482b8206a3a15d3a04967b2.jpg" group-title="Canais | 24 Horas",[24H] ThunderCats
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135468.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0547c48cd521701faa8399523536e093.jpg" group-title="Canais | 24 Horas",[24H] ThunderCats (2011)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135489.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/39830ae36c629ad40081ec7e1928b829.jpg" group-title="Canais | 24 Horas",[24H] Tico e Teco Defensores da Lei
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135490.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/50bcf817fcbca03c6d9af1d7ae335218.jpg" group-title="Canais | 24 Horas",[24H] Tico e Teco Vida no Parque
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135493.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nNe" group-title="Canais | 24 Horas",[24H] Timao e Pumba
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48059.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TaJ" group-title="Canais | 24 Horas",[24H] Tita Simbionico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48060.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/b7R" group-title="Canais | 24 Horas",[24H] Titio Avo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48061.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8817e6705ba7075d6979b21a7e95cae2.jpg" group-title="Canais | 24 Horas",[24H] To de Graca [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137178.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8817e6705ba7075d6979b21a7e95cae2.jpg" group-title="Canais | 24 Horas",[24H] To de Graca [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137179.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8817e6705ba7075d6979b21a7e95cae2.jpg" group-title="Canais | 24 Horas",[24H] To de Graca [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137180.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8817e6705ba7075d6979b21a7e95cae2.jpg" group-title="Canais | 24 Horas",[24H] To de Graca [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137181.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8817e6705ba7075d6979b21a7e95cae2.jpg" group-title="Canais | 24 Horas",[24H] To de Graca [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137182.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia o Chris [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135469.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia o Chris [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135470.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia o Chris [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135471.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia o Chris [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135472.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/66bb24fdcfff071d3ab11afdca24ca68.jpg" group-title="Canais | 24 Horas",[24H] Toma La da Ca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138938.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bd0931e2ba073cb7d080aec93edadf54.jpg" group-title="Canais | 24 Horas",[24H] Tom e Jerry
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136814.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j4V" group-title="Canais | 24 Horas",[24H] Tom Sem Freio
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48067.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/9AW" group-title="Canais | 24 Horas",[24H] Topo Gigio
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48068.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/m9R" group-title="Canais | 24 Horas",[24H] Touradas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48069.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/afbfd82115fa5fc6ed0dad569f45590a.jpg" group-title="Canais | 24 Horas",[24H] Transformers War for Cybertron O Cerco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135502.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5df13d1f7f56049a90170cc531fe4cb5.jpg" group-title="Canais | 24 Horas",[24H] Transformers War for Cybertron O Nascer da Terra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135503.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/bcc8ff9ecdc5e82fb84f8d6fe5f8a887.jpg" group-title="Canais | 24 Horas",[24H] Transformers War for Cybertron O Reino
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135504.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dba2e3a907b436856d224b277b5b9fa9.jpg" group-title="Canais | 24 Horas",[24H] Tratamento de Choque [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137095.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dba2e3a907b436856d224b277b5b9fa9.jpg" group-title="Canais | 24 Horas",[24H] Tratamento de Choque [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137096.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dba2e3a907b436856d224b277b5b9fa9.jpg" group-title="Canais | 24 Horas",[24H] Tratamento de Choque [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137097.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dba2e3a907b436856d224b277b5b9fa9.jpg" group-title="Canais | 24 Horas",[24H] Tratamento de Choque [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137098.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dba2e3a907b436856d224b277b5b9fa9.jpg" group-title="Canais | 24 Horas",[24H] Tratamento de Choque [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137099.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b38fe2f6c5884c6d2de18e4cb0cf86b4.jpg" group-title="Canais | 24 Horas",[24H] Tres Espias Demais
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140758.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48070.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48071.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48072.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48073.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/jMI" group-title="Canais | 24 Horas",[24H] Tres Espias Demais - S05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48074.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6a74a588153cb516847d53f2639e819c.jpg" group-title="Canais | 24 Horas",[24H] Tubacao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135505.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NWF" group-title="Canais | 24 Horas",[24H] Tunel do Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48075.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/go6" group-title="Canais | 24 Horas",[24H] Turbo Man
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48076.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f28ffaadfd02314ad8bf6ab09f06cca7.jpg" group-title="Canais | 24 Horas",[24H] Turma da Monica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137612.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/WCr" group-title="Canais | 24 Horas",[24H] Tutubarao
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48077.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/77e05d7b581e0102ca5c626fb3828190.jpg" group-title="Canais | 24 Horas",[24H] TV Quack O Pato Donald e Seus Sobrinhos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137116.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/24ae894814508f234f8e3c6771cc34f0.jpg" group-title="Canais | 24 Horas",[24H] Ultimate Beastmaster Brasil [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/141496.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/24ae894814508f234f8e3c6771cc34f0.jpg" group-title="Canais | 24 Horas",[24H] Ultimate Beastmaster Brasil [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/141497.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/24ae894814508f234f8e3c6771cc34f0.jpg" group-title="Canais | 24 Horas",[24H] Ultimate Beastmaster Brasil [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/141498.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eyz" group-title="Canais | 24 Horas",[24H] Ultramen
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48078.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaco [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135445.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaco [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135446.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaco [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135448.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaco [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135449.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaco [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135450.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaco [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135451.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f646272b000cc74c9d414cf851da5b6a.jpg" group-title="Canais | 24 Horas",[24H] Um Planeta Perfeito
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138010.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uYY" group-title="Canais | 24 Horas",[24H] Ursinho Pooh e Seus Amigos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48085.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NeR" group-title="Canais | 24 Horas",[24H] Ursinhos Carinhosos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48086.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137440.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137441.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137442.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137443.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137444.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137445.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S07]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137446.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S08]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137447.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg" group-title="Canais | 24 Horas",[24H] Vai Que Cola [S09]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137448.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/GhJ" group-title="Canais | 24 Horas",[24H] Vale dos Dinossauros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48087.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/453d50124d2ae565e4fdd22461194da8.jpg" group-title="Canais | 24 Horas",[24H] Vampirina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138941.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/19aa3d70a53e70971611a283ab7389ac.jpg" group-title="Canais | 24 Horas",[24H] Velozes e Furiosos Espioes do Asfalto
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138942.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uQG" group-title="Canais | 24 Horas",[24H] Wally Gator
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48088.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg" group-title="Canais | 24 Horas",[24H] Xena A Princesa Guerreira [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137117.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg" group-title="Canais | 24 Horas",[24H] Xena A Princesa Guerreira [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137118.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg" group-title="Canais | 24 Horas",[24H] Xena A Princesa Guerreira [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137119.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg" group-title="Canais | 24 Horas",[24H] Xena A Princesa Guerreira [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137120.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg" group-title="Canais | 24 Horas",[24H] Xena A Princesa Guerreira [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137121.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg" group-title="Canais | 24 Horas",[24H] Xena A Princesa Guerreira [S06]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137122.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a5edc13c2a48f92a040982a7a207a0fc.jpg" group-title="Canais | 24 Horas",[24H] X Men Evolution
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138943.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/cc330d7feae6846b85f3ba3bc070991c.jpg" group-title="Canais | 24 Horas",[24H] X Men Serie Animada
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137173.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VeW" group-title="Canais | 24 Horas",[24H] Xuxa So Para Baixinhos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48089.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5a2da2da44949249b753d0fce9d6cd4b.jpg" group-title="Canais | 24 Horas",[24H] Yabba Dabba Dinossauros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/139305.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh - Duel Monsters [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138012.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh - Duel Monsters [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138013.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh - Duel Monsters [S03]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138014.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh - Duel Monsters [S04]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138015.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | 24 Horas",[24H] Yu-Gi-Oh - Duel Monsters [S05]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138016.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/07e3727ba4e9d0dd86be78577a244765.jpg" group-title="Canais | 24 Horas",[24H] Yu Yu Hakusho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/140759.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/v6G" group-title="Canais | 24 Horas",[24H] Yu Yu Hakusho
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48090.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Qxr" group-title="Canais | 24 Horas",[24H] Zack e Cody Gemeos a Bordo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48098.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ft3" group-title="Canais | 24 Horas",[24H] Zatch Bell
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48099.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/LTn" group-title="Canais | 24 Horas",[24H] Ze Bolha e Juca Bala - Curta Metragem
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48100.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dPi" group-title="Canais | 24 Horas",[24H] Ze Buscape
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48101.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/b8E" group-title="Canais | 24 Horas",[24H] Zillion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48102.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/q6D" group-title="Canais | 24 Horas",[24H] Zoboomafoo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48103.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FoQ" group-title="Canais | 24 Horas",[24H] Zoey 101
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48104.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2008)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48105.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2009)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48106.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2010)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48107.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2011)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48108.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2012)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48109.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2013)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48110.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/d3F" group-title="Canais | 24 Horas",[24H] Zorra Total (2014)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/48111.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0ce1cfa72377b1ac6cdad3155d500320.jpg" group-title="Canais | 24 Horas",[24H] Zorro [S01]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136818.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/0ce1cfa72377b1ac6cdad3155d500320.jpg" group-title="Canais | 24 Horas",[24H] Zorro [S02]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/136819.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e1755f8b6947d2af046a08504a3da39.jpg" group-title="Canais | YouTube",[24H] [Canal YouTube] 4 Amigos Stand Up Comedy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138721.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ee0b923e8481b85b188a75b2c71a65be.jpeg" group-title="Canais | YouTube",[24H] [Canal YouTube] 5 Alguma Coisa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138729.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/3e9427d99daf2b556221820eb698b772.png" group-title="Canais | YouTube",[24H] [Canal YouTube] Master Trash e Panicos Chef
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/138790.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/a33d7452f089cca266c92ead65278631.jpg" group-title="Canais | 24 Horas",[24H] [Filmes] Homem Aranha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135556.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/644e30819b79b84951a17755ec1b0ae2.jpg" group-title="Canais | 24 Horas",[24H] [Filmes] Minha Mae E Uma Peca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/141501.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f127d98d63c5eba6409a894893ebe686.jpg" group-title="Canais | 24 Horas",[24H] [Filmes] Transformers
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/135555.ts
-#EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6cd38cab47257e88353ea1667ef021fd.jpg" group-title="Canais | 24 Horas",[24H] [Filmes] Velozes e Furiosos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://b5.vc:80/5860306580/fireurl.co/137618.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="24H Charlie Brown e Snoopy" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Charlie Brown e Snoopy
+http://4tv.site:2082/9939dd/4891349939/172266
+#EXTINF:-1 tvg-id="" tvg-name="24H Pesadelo Na Cozinha" tvg-logo="" group-title="Canais | 24 Horas Series",24H Pesadelo Na Cozinha
+http://4tv.site:2082/9939dd/4891349939/172255
+#EXTINF:-1 tvg-id="" tvg-name="24H Batman A Série Animada" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Batman A Série Animada
+http://4tv.site:2082/9939dd/4891349939/172254
+#EXTINF:-1 tvg-id="" tvg-name="24H Anos Incríveis" tvg-logo="" group-title="Canais | 24 Horas Series",24H Anos Incríveis
+http://4tv.site:2082/9939dd/4891349939/172253
+#EXTINF:-1 tvg-id="" tvg-name="24H Dora Aventureira" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Dora Aventureira
+http://4tv.site:2082/9939dd/4891349939/172252
+#EXTINF:-1 tvg-id="" tvg-name="24H Equipe Umizoomi" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Equipe Umizoomi
+http://4tv.site:2082/9939dd/4891349939/172251
+#EXTINF:-1 tvg-id="" tvg-name="24H Bubble Guppies" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Bubble Guppies
+http://4tv.site:2082/9939dd/4891349939/172250
+#EXTINF:-1 tvg-id="" tvg-name="24H  Blaze e os Monster Machines" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H  Blaze e os Monster Machines
+http://4tv.site:2082/9939dd/4891349939/172249
+#EXTINF:-1 tvg-id="" tvg-name="24H BORUTO NARUTO NEXT GENERATIONS" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H BORUTO NARUTO NEXT GENERATIONS
+http://4tv.site:2082/9939dd/4891349939/172242
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO SHIPPUDEN T01 A 05" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H NARUTO SHIPPUDEN T01 A 05
+http://4tv.site:2082/9939dd/4891349939/172241
+#EXTINF:-1 tvg-id="" tvg-name="24H DOUTORA BRINQUEDOS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DOUTORA BRINQUEDOS
+http://4tv.site:2082/9939dd/4891349939/172240
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T05" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PATRULHA CANINA T05
+http://4tv.site:2082/9939dd/4891349939/172239
+#EXTINF:-1 tvg-id="" tvg-name="24H VINGADORES UNIDOS" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H VINGADORES UNIDOS
+http://4tv.site:2082/9939dd/4891349939/172238
+#EXTINF:-1 tvg-id="" tvg-name="24H STAR WARS GUERRA DOS CLONES" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H STAR WARS GUERRA DOS CLONES
+http://4tv.site:2082/9939dd/4891349939/172237
+#EXTINF:-1 tvg-id="" tvg-name="24H VINGADORES OS SUPER HERÓIS" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H VINGADORES OS SUPER HERÓIS
+http://4tv.site:2082/9939dd/4891349939/172236
+#EXTINF:-1 tvg-id="" tvg-name="24H MANNY MÃOS À OBRA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MANNY MÃOS À OBRA
+http://4tv.site:2082/9939dd/4891349939/172235
+#EXTINF:-1 tvg-id="" tvg-name="24H HANNAH MONTANA" tvg-logo="" group-title="Canais | 24 Horas Series",24H HANNAH MONTANA
+http://4tv.site:2082/9939dd/4891349939/172234
+#EXTINF:-1 tvg-id="" tvg-name="24H ALF O E.TEIMOSO" tvg-logo="" group-title="Canais | 24 Horas Series",24H ALF O E.TEIMOSO
+http://4tv.site:2082/9939dd/4891349939/172233
+#EXTINF:-1 tvg-id="" tvg-name="24H MUCHA LUTA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MUCHA LUTA
+http://4tv.site:2082/9939dd/4891349939/172232
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAMAN KING (ANIME)" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H SHAMAN KING (ANIME)
+http://4tv.site:2082/9939dd/4891349939/172231
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS (HARDBLOG)" tvg-logo="" group-title="Canais | 24 Horas Series",24H EU A PATROA E AS CRIANÇAS (HARDBLOG)
+http://4tv.site:2082/9939dd/4891349939/172230
+#EXTINF:-1 tvg-id="" tvg-name="24H TODO MUNDO ODEIA O CHRIS (HARDBLOG)" tvg-logo="" group-title="Canais | 24 Horas Series",24H TODO MUNDO ODEIA O CHRIS (HARDBLOG)
+http://4tv.site:2082/9939dd/4891349939/172204
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T06" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PATRULHA CANINA T06
+http://4tv.site:2082/9939dd/4891349939/168752
+#EXTINF:-1 tvg-id="" tvg-name="24H BONES" tvg-logo="http://capas.webplay.fun/BONES.jpg" group-title="Canais | 24 Horas Series",24H BONES
+http://4tv.site:2082/9939dd/4891349939/19915
+#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia Chris" tvg-logo="http://capas.webplay.fun/Todo%20Mundo%20Odeia%20Chris.jpg" group-title="Canais | 24 Horas Series",24H Todo Mundo Odeia Chris
+http://4tv.site:2082/9939dd/4891349939/19922
+#EXTINF:-1 tvg-id="" tvg-name="24H JIBAN" tvg-logo="http://capas.webplay.fun/Jiban.jpg" group-title="Canais | 24 Horas Series",24H JIBAN
+http://4tv.site:2082/9939dd/4891349939/19946
+#EXTINF:-1 tvg-id="" tvg-name="24H PUNKY A LEVADA DA BRECA" tvg-logo="http://capas.webplay.fun/Punky.jpg" group-title="Canais | 24 Horas Series",24H PUNKY A LEVADA DA BRECA
+http://4tv.site:2082/9939dd/4891349939/19979
+#EXTINF:-1 tvg-id="" tvg-name="24H MARVEL DEMOLIDOR" tvg-logo="http://capas.webplay.fun/DEMOLIDOR.jpg" group-title="Canais | 24 Horas Series",24H MARVEL DEMOLIDOR
+http://4tv.site:2082/9939dd/4891349939/20142
+#EXTINF:-1 tvg-id="" tvg-name="24H BLACK KAMEN RIDER" tvg-logo="http://capas.webplay.fun/Black%20Kamen%20Rider.jpg" group-title="Canais | 24 Horas Series",24H BLACK KAMEN RIDER
+http://4tv.site:2082/9939dd/4891349939/20956
+#EXTINF:-1 tvg-id="" tvg-name="24H CARGA PESADA" tvg-logo="http://capas.webplay.fun/Carga%20Pesada.jpg" group-title="Canais | 24 Horas Series",24H CARGA PESADA
+http://4tv.site:2082/9939dd/4891349939/21005
+#EXTINF:-1 tvg-id="" tvg-name="24H ARQUEIRO VERDE" tvg-logo="http://capas.webplay.fun/arqueiro-verde.jpg" group-title="Canais | 24 Horas Series",24H ARQUEIRO VERDE
+http://4tv.site:2082/9939dd/4891349939/26815
+#EXTINF:-1 tvg-id="" tvg-name="24H BROOKLYN NINE-NINE" tvg-logo="http://capas.webplay.fun/BROOKLYN%20NINE-NINE.jpg" group-title="Canais | 24 Horas Series",24H BROOKLYN NINE-NINE
+http://4tv.site:2082/9939dd/4891349939/26816
+#EXTINF:-1 tvg-id="" tvg-name="24H COMO CONHECI SUA MÃE" tvg-logo="http://capas.webplay.fun/como-eu-conheci-sua-mae.jpg" group-title="Canais | 24 Horas Series",24H COMO CONHECI SUA MÃE
+http://4tv.site:2082/9939dd/4891349939/26817
+#EXTINF:-1 tvg-id="" tvg-name="24H FLASH" tvg-logo="http://capas.webplay.fun/FLASH.jpg" group-title="Canais | 24 Horas Series",24H FLASH
+http://4tv.site:2082/9939dd/4891349939/26818
+#EXTINF:-1 tvg-id="" tvg-name="24H GAME OF THRONES" tvg-logo="http://capas.webplay.fun/GAME%20OF%20THRONES.jpg" group-title="Canais | 24 Horas Series",24H GAME OF THRONES
+http://4tv.site:2082/9939dd/4891349939/26819
+#EXTINF:-1 tvg-id="" tvg-name="24H VIKINGS" tvg-logo="http://cdn.prime.tv.br:8080/images/04d4177366dbe822ea89a4d8a08cc148.jpg" group-title="Canais | 24 Horas Series",24H VIKINGS
+http://4tv.site:2082/9939dd/4891349939/26821
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMÃOS A OBRA" tvg-logo="http://capas.webplay.fun/IRMAOS.jpg" group-title="Canais | 24 Horas Reality",24H IRMÃOS A OBRA
+http://4tv.site:2082/9939dd/4891349939/27943
+#EXTINF:-1 tvg-id="" tvg-name="24H MARIA MAGDALENA" tvg-logo="http://capas.webplay.fun/Maria%20Magdalena.jpg" group-title="Canais | 24 Horas Series",24H MARIA MAGDALENA
+http://4tv.site:2082/9939dd/4891349939/29348
+#EXTINF:-1 tvg-id="" tvg-name="24H LION MAN" tvg-logo="http://capas.webplay.fun/LION%20MAN.jpg" group-title="Canais | 24 Horas Series",24H LION MAN
+http://4tv.site:2082/9939dd/4891349939/30662
+#EXTINF:-1 tvg-id="" tvg-name="24H OS TRAPALHÕES" tvg-logo="" group-title="Canais | 24 Horas Series",24H OS TRAPALHÕES
+http://4tv.site:2082/9939dd/4891349939/30668
+#EXTINF:-1 tvg-id="" tvg-name="24H ENGRAÇADINHA SEUS AMORES E SEUS PECADOS" tvg-logo="http://capas.webplay.fun/ENGRAÇADINHA%20SEUS%20AMORES%20E%20SEUS%20PECADOS.jpg" group-title="Canais | 24 Horas Series",24H ENGRAÇADINHA SEUS AMORES E SEUS PECADOS
+http://4tv.site:2082/9939dd/4891349939/30670
+#EXTINF:-1 tvg-id="" tvg-name="24H VERDADES SECRETAS" tvg-logo="" group-title="Canais | 24 Horas Series",24H VERDADES SECRETAS
+http://4tv.site:2082/9939dd/4891349939/30671
+#EXTINF:-1 tvg-id="" tvg-name="24H UM MALUCO NO PEDAÇO" tvg-logo="" group-title="Canais | 24 Horas Series",24H UM MALUCO NO PEDAÇO
+http://4tv.site:2082/9939dd/4891349939/31711
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="http://capas.webplay.fun/EU%20A%20PATROA%20E%20AS%20CRIANÇAS.jpg" group-title="Canais | 24 Horas Series",24H EU A PATROA E AS CRIANÇAS
+http://4tv.site:2082/9939dd/4891349939/31717
+#EXTINF:-1 tvg-id="" tvg-name="24H SPARTACUS" tvg-logo="http://capas.webplay.fun/SPARTACUS.jpg" group-title="Canais | 24 Horas Series",24H SPARTACUS
+http://4tv.site:2082/9939dd/4891349939/32223
+#EXTINF:-1 tvg-id="" tvg-name="24H FUTURAMA" tvg-logo="http://capas.webplay.fun/futurama.png" group-title="Canais | 24 Horas Desenhos Premium",24H FUTURAMA
+http://4tv.site:2082/9939dd/4891349939/19914
+#EXTINF:-1 tvg-id="" tvg-name="24H SOUTH PARK" tvg-logo="http://capas.webplay.fun/SOUTHPARK.png" group-title="Canais | 24 Horas Desenhos Premium",24H SOUTH PARK
+http://4tv.site:2082/9939dd/4891349939/19963
+#EXTINF:-1 tvg-id="" tvg-name="24H SHE-RA" tvg-logo="http://capas.webplay.fun/sheraw.png" group-title="Canais | 24 Horas Desenhos Premium",24H SHE-RA
+http://4tv.site:2082/9939dd/4891349939/19983
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS 2° Década 2000/2010" tvg-logo="http://capas.webplay.fun/simpsons2.png" group-title="Canais | 24 Horas Desenhos Premium",24H OS SIMPSONS 2° Década 2000/2010
+http://4tv.site:2082/9939dd/4891349939/20954
+#EXTINF:-1 tvg-id="" tvg-name="24H COMANDOS EM AÇÃO" tvg-logo="http://capas.webplay.fun/comandos.png" group-title="Canais | 24 Horas Desenhos Premium",24H COMANDOS EM AÇÃO
+http://4tv.site:2082/9939dd/4891349939/27492
+#EXTINF:-1 tvg-id="" tvg-name="24H RAMBO DESENHO" tvg-logo="http://capas.webplay.fun/rambo2.png" group-title="Canais | 24 Horas Desenhos Premium",24H RAMBO DESENHO
+http://4tv.site:2082/9939dd/4891349939/27493
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T01 A 04" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H BOB ESPONJA T01 A 04
+http://4tv.site:2082/9939dd/4891349939/19495
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA E AS PRINCESAS DO PODER" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",SHE-RA E AS PRINCESAS DO PODER
+http://4tv.site:2082/9939dd/4891349939/19525
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",OS PADRINHOS MAGICOS
+http://4tv.site:2082/9939dd/4891349939/19527
+#EXTINF:-1 tvg-id="" tvg-name="24H AS TRAPALHADAS DE FLAPJACK" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H AS TRAPALHADAS DE FLAPJACK
+http://4tv.site:2082/9939dd/4891349939/19528
+#EXTINF:-1 tvg-id="" tvg-name="O SHOW DA LUNA" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",O SHOW DA LUNA
+http://4tv.site:2082/9939dd/4891349939/19529
+#EXTINF:-1 tvg-id="" tvg-name="DU DUDU E EDU" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",DU DUDU E EDU
+http://4tv.site:2082/9939dd/4891349939/19530
+#EXTINF:-1 tvg-id="" tvg-name="AS TERRIVEIS AVENTURAS DE BILLY E MANDY" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",AS TERRIVEIS AVENTURAS DE BILLY E MANDY
+http://4tv.site:2082/9939dd/4891349939/19531
+#EXTINF:-1 tvg-id="" tvg-name="24H TICO E TECO OS DEFENSORES DA LEI" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H TICO E TECO OS DEFENSORES DA LEI
+http://4tv.site:2082/9939dd/4891349939/19534
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICOS HANNA BARBERA" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",CLASSICOS HANNA BARBERA
+http://4tv.site:2082/9939dd/4891349939/19538
+#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H MUNDO BITA
+http://4tv.site:2082/9939dd/4891349939/19953
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H CAPITÃO CAVERNA
+http://4tv.site:2082/9939dd/4891349939/19989
+#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM, O CÃO COVARDE" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H CORAGEM, O CÃO COVARDE
+http://4tv.site:2082/9939dd/4891349939/19992
+#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H DIGIMON
+http://4tv.site:2082/9939dd/4891349939/19993
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMÃO DO JOREL" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H IRMÃO DO JOREL
+http://4tv.site:2082/9939dd/4891349939/20000
+#EXTINF:-1 tvg-id="" tvg-name="24H CONTOS ASSUSTADORES DA MASHA" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H CONTOS ASSUSTADORES DA MASHA
+http://4tv.site:2082/9939dd/4891349939/20003
+#EXTINF:-1 tvg-id="" tvg-name="24H OS HERCULÓIDES" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H OS HERCULÓIDES
+http://4tv.site:2082/9939dd/4891349939/20005
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T01" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H PATRULHA CANINA T01
+http://4tv.site:2082/9939dd/4891349939/20008
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T02" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg" group-title="Canais | 24 Horas Infantil",24H PATRULHA CANINA T02
+http://4tv.site:2082/9939dd/4891349939/20009
+#EXTINF:-1 tvg-id="" tvg-name="24H TRÊS ESPIÃS DEMAIS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H TRÊS ESPIÃS DEMAIS
+http://4tv.site:2082/9939dd/4891349939/26828
+#EXTINF:-1 tvg-id="" tvg-name="24H TOM & JERRY CLASSICO" tvg-logo="http://capas.webplay.fun/Tom%20&%20Jerry%20Classico.jpg" group-title="Canais | 24 Horas Infantil",24H TOM & JERRY CLASSICO
+http://4tv.site:2082/9939dd/4891349939/27150
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T03" tvg-logo="http://capas.webplay.fun/PATRULHA%20CANINA%201%C2%AA%20TEMPORADA.jpg" group-title="Canais | 24 Horas Infantil",24H PATRULHA CANINA T03
+http://4tv.site:2082/9939dd/4891349939/29345
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T04" tvg-logo="http://capas.webplay.fun/PATRULHA%20CANINA%201%C2%AA%20TEMPORADA.jpg" group-title="Canais | 24 Horas Infantil",24H PATRULHA CANINA T04
+http://4tv.site:2082/9939dd/4891349939/29346
+#EXTINF:-1 tvg-id="" tvg-name="24H BUBU E AS CORUJINHAS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BUBU E AS CORUJINHAS
+http://4tv.site:2082/9939dd/4891349939/35297
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DO GARFIELD" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H O SHOW DO GARFIELD
+http://4tv.site:2082/9939dd/4891349939/35298
+#EXTINF:-1 tvg-id="" tvg-name="24H DANIEL TIGRE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DANIEL TIGRE
+http://4tv.site:2082/9939dd/4891349939/35299
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H GALINHA PINTADINHA
+http://4tv.site:2082/9939dd/4891349939/35300
+#EXTINF:-1 tvg-id="" tvg-name="24H POLLY POCKET" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H POLLY POCKET
+http://4tv.site:2082/9939dd/4891349939/35301
+#EXTINF:-1 tvg-id="" tvg-name="24H LOUIE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H LOUIE
+http://4tv.site:2082/9939dd/4891349939/35302
+#EXTINF:-1 tvg-id="" tvg-name="24H SEE T01" tvg-logo="http://capas.webplay.fun/SEE.jpg" group-title="Canais | 24 Horas Series",24H SEE T01
+http://4tv.site:2082/9939dd/4891349939/35303
+#EXTINF:-1 tvg-id="" tvg-name="24H JESUS UM REINO SEM FRONTEIRA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H JESUS UM REINO SEM FRONTEIRA
+http://4tv.site:2082/9939dd/4891349939/35304
+#EXTINF:-1 tvg-id="" tvg-name="24H AVATAR A LENDA DE KORA H265" tvg-logo="http://capas.webplay.fun/korra.png" group-title="Canais | 24 Horas Desenhos Premium",24H AVATAR A LENDA DE KORA H265
+http://4tv.site:2082/9939dd/4891349939/35305
+#EXTINF:-1 tvg-id="" tvg-name="24H CANÇÕES DE NINAR" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H CANÇÕES DE NINAR
+http://4tv.site:2082/9939dd/4891349939/35306
+#EXTINF:-1 tvg-id="" tvg-name="24H 9-1-1" tvg-logo="http://capas.webplay.fun/9-1-1-poster.jpg" group-title="Canais | 24 Horas Series",24H 9-1-1
+http://4tv.site:2082/9939dd/4891349939/35307
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA MINI" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H GALINHA PINTADINHA MINI
+http://4tv.site:2082/9939dd/4891349939/35308
+#EXTINF:-1 tvg-id="" tvg-name="24H PEPE LEGAL" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PEPE LEGAL
+http://4tv.site:2082/9939dd/4891349939/35310
+#EXTINF:-1 tvg-id="" tvg-name="24H ANIMANIACS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H ANIMANIACS
+http://4tv.site:2082/9939dd/4891349939/35312
+#EXTINF:-1 tvg-id="" tvg-name="24H AS NOIVAS DE COPACABANA" tvg-logo="http://capas.webplay.fun/AS%20NOIVAS%20DE%20COPACABANA.jpg" group-title="Canais | 24 Horas Series",24H AS NOIVAS DE COPACABANA
+http://4tv.site:2082/9939dd/4891349939/35313
+#EXTINF:-1 tvg-id="" tvg-name="24H A VIDA COMO ELA É" tvg-logo="http://capas.webplay.fun/A%20VIDA%20COMO%20ELA.jpg" group-title="Canais | 24 Horas Series",24H A VIDA COMO ELA É
+http://4tv.site:2082/9939dd/4891349939/35314
+#EXTINF:-1 tvg-id="" tvg-name="24H MALHAÇÃO 1999" tvg-logo="http://capas.webplay.fun/MALHAÇÃO%201999.jpg" group-title="Canais | 24 Horas Series",24H MALHAÇÃO 1999
+http://4tv.site:2082/9939dd/4891349939/35315
+#EXTINF:-1 tvg-id="" tvg-name="24H ZILLION" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H ZILLION
+http://4tv.site:2082/9939dd/4891349939/35316
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS 3° Década 2011/2020" tvg-logo="http://capas.webplay.fun/simpsons2.png" group-title="Canais | 24 Horas Desenhos Premium",24H OS SIMPSONS 3° Década 2011/2020
+http://4tv.site:2082/9939dd/4891349939/35317
+#EXTINF:-1 tvg-id="" tvg-name="24H PEGADINHAS AMERICANAS 2" tvg-logo="" group-title="Canais | 24 Horas Diversos",24H PEGADINHAS AMERICANAS 2
+http://4tv.site:2082/9939dd/4891349939/35318
+#EXTINF:-1 tvg-id="" tvg-name="24H GRAN HOTEL" tvg-logo="http://capas.webplay.fun/grand-hotel-1.jpg" group-title="Canais | 24 Horas Series",24H GRAN HOTEL
+http://4tv.site:2082/9939dd/4891349939/35319
+#EXTINF:-1 tvg-id="" tvg-name="24H SONIC THE HEDGEHOG" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H SONIC THE HEDGEHOG
+http://4tv.site:2082/9939dd/4891349939/35398
+#EXTINF:-1 tvg-id="" tvg-name="24H CHERNOBYL" tvg-logo="http://capas.webplay.fun/CHERNOBYL.jpg" group-title="Canais | 24 Horas Series",24H CHERNOBYL
+http://4tv.site:2082/9939dd/4891349939/35407
+#EXTINF:-1 tvg-id="" tvg-name="24H REALITY Z" tvg-logo="http://capas.webplay.fun/REALITYZ.jpg" group-title="Canais | 24 Horas Series",24H REALITY Z
+http://4tv.site:2082/9939dd/4891349939/35408
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS A TRIBO" tvg-logo="http://capas.webplay.fun/ATRIBO.jpg" group-title="Canais | 24 Horas Reality",24H LARGADOS E PELADOS A TRIBO
+http://4tv.site:2082/9939dd/4891349939/35409
+#EXTINF:-1 tvg-id="" tvg-name="24H LADY NIGHT" tvg-logo="http://capas.webplay.fun/LADY.jpg" group-title="Canais | 24 Horas Reality",24H LADY NIGHT
+http://4tv.site:2082/9939dd/4891349939/35410
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO" tvg-logo="http://capas.webplay.fun/caverna.png" group-title="Canais | 24 Horas Desenhos Premium",24H CAVERNA DO DRAGÃO
+http://4tv.site:2082/9939dd/4891349939/19866
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA-PAU" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PICA-PAU
+http://4tv.site:2082/9939dd/4891349939/19894
+#EXTINF:-1 tvg-id="" tvg-name="24H PEPPA PIG" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PEPPA PIG
+http://4tv.site:2082/9939dd/4891349939/19892
+#EXTINF:-1 tvg-id="" tvg-name="24H OS FLINTSTONES" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS FLINTSTONES
+http://4tv.site:2082/9939dd/4891349939/19889
+#EXTINF:-1 tvg-id="" tvg-name="24H HOUSE OF CARDS" tvg-logo="http://capas.webplay.fun/HOUSE%20OF%20CARDS.jpg" group-title="Canais | 24 Horas Series",24H HOUSE OF CARDS
+http://4tv.site:2082/9939dd/4891349939/35588
+#EXTINF:-1 tvg-id="" tvg-name="24H BELA, RECATADA DO LAR" tvg-logo="http://4tv.site:2082/images/0e5178a840c95e469f5f733a49d03ba1.jpg" group-title="Canais | 24 Horas Series",24H BELA, RECATADA DO LAR
+http://4tv.site:2082/9939dd/4891349939/34228
+#EXTINF:-1 tvg-id="" tvg-name="24H TARZAN" tvg-logo="http://capas.webplay.fun/TARZAN.jpg" group-title="Canais | 24 Horas Series",24H TARZAN
+http://4tv.site:2082/9939dd/4891349939/34224
+#EXTINF:-1 tvg-id="" tvg-name="24H V A BATALHA FINAL" tvg-logo="http://capas.webplay.fun/V%20A%20BATALHA%20FINAL.jpg" group-title="Canais | 24 Horas Series",24H V A BATALHA FINAL
+http://4tv.site:2082/9939dd/4891349939/34225
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SNORKS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS SNORKS
+http://4tv.site:2082/9939dd/4891349939/35739
+#EXTINF:-1 tvg-id="" tvg-name="24H CHANGEMAN" tvg-logo="" group-title="Canais | 24 Horas Series",24H CHANGEMAN
+http://4tv.site:2082/9939dd/4891349939/35740
+#EXTINF:-1 tvg-id="" tvg-name="24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90" tvg-logo="" group-title="Canais | 24 Horas Diversos",24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
+http://4tv.site:2082/9939dd/4891349939/35741
+#EXTINF:-1 tvg-id="" tvg-name="24H GIGANTES DA INDUSTRIA" tvg-logo="http://capas.webplay.fun/GIGANTES.jpg" group-title="Canais | 24 Horas Reality",24H GIGANTES DA INDUSTRIA
+http://4tv.site:2082/9939dd/4891349939/35742
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL CLASSICO" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL CLASSICO
+http://4tv.site:2082/9939dd/4891349939/35743
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DA PANTERA COR DE ROSA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H A TURMA DA PANTERA COR DE ROSA
+http://4tv.site:2082/9939dd/4891349939/35744
+#EXTINF:-1 tvg-id="" tvg-name="24H TURMA DO RONALDINHO GAUCHO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H TURMA DO RONALDINHO GAUCHO
+http://4tv.site:2082/9939dd/4891349939/35745
+#EXTINF:-1 tvg-id="" tvg-name="24H O PODEROSO MIGTHOR" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H O PODEROSO MIGTHOR
+http://4tv.site:2082/9939dd/4891349939/35746
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SMURFS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS SMURFS
+http://4tv.site:2082/9939dd/4891349939/35748
+#EXTINF:-1 tvg-id="" tvg-name="24H PERDIDO NAS ESTRELAS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PERDIDO NAS ESTRELAS
+http://4tv.site:2082/9939dd/4891349939/35749
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAVALEIROS DO ZODIACO" tvg-logo="http://capas.webplay.fun/cavaleirosdozoo.png" group-title="Canais | 24 Horas Desenhos Premium",24H OS CAVALEIROS DO ZODIACO
+http://4tv.site:2082/9939dd/4891349939/35750
+#EXTINF:-1 tvg-id="" tvg-name="24H PLIC &amp; PLOC" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PLIC &amp; PLOC
+http://4tv.site:2082/9939dd/4891349939/35751
+#EXTINF:-1 tvg-id="" tvg-name="24H ROBOCOP DESENHO" tvg-logo="http://capas.webplay.fun/robocopw.png" group-title="Canais | 24 Horas Desenhos Premium",24H ROBOCOP DESENHO
+http://4tv.site:2082/9939dd/4891349939/35752
+#EXTINF:-1 tvg-id="" tvg-name="24H SCOOBY-DOO &amp; SCOOBY-LOO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H SCOOBY-DOO &amp; SCOOBY-LOO
+http://4tv.site:2082/9939dd/4891349939/35753
+#EXTINF:-1 tvg-id="" tvg-name="24H SURFISTA PRATEADO" tvg-logo="http://capas.webplay.fun/surfistapratea.png" group-title="Canais | 24 Horas Desenhos Premium",24H SURFISTA PRATEADO
+http://4tv.site:2082/9939dd/4891349939/35754
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS" tvg-logo="http://capas.webplay.fun/LARGADOS.jpg" group-title="Canais | 24 Horas Reality",24H LARGADOS E PELADOS
+http://4tv.site:2082/9939dd/4891349939/35755
+#EXTINF:-1 tvg-id="" tvg-name="24H TV COLOSSO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H TV COLOSSO
+http://4tv.site:2082/9939dd/4891349939/35756
+#EXTINF:-1 tvg-id="" tvg-name="24H OS GÁRGULAS" tvg-logo="http://capas.webplay.fun/gargo.png" group-title="Canais | 24 Horas Desenhos Premium",24H OS GÁRGULAS
+http://4tv.site:2082/9939dd/4891349939/35757
+#EXTINF:-1 tvg-id="" tvg-name="24H FREAKAZOID" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H FREAKAZOID
+http://4tv.site:2082/9939dd/4891349939/35758
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAST 007" tvg-logo="http://capas.webplay.fun/24007.png" group-title="Canais | Cine Fast",CINE FAST 007
+http://4tv.site:2082/9939dd/4891349939/35759
+#EXTINF:-1 tvg-id="" tvg-name="24H BYCROSSERS" tvg-logo="http://capas.webplay.fun/bicrosser.png" group-title="Canais | 24 Horas Desenhos Premium",24H BYCROSSERS
+http://4tv.site:2082/9939dd/4891349939/35760
+#EXTINF:-1 tvg-id="" tvg-name="24H HEROES" tvg-logo="" group-title="Canais | 24 Horas Series",24H HEROES
+http://4tv.site:2082/9939dd/4891349939/35761
+#EXTINF:-1 tvg-id="" tvg-name="24H A VACA E O FRANGO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H A VACA E O FRANGO
+http://4tv.site:2082/9939dd/4891349939/35762
+#EXTINF:-1 tvg-id="" tvg-name="24H CASTORES PIRADOS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H CASTORES PIRADOS
+http://4tv.site:2082/9939dd/4891349939/35763
+#EXTINF:-1 tvg-id="" tvg-name="24H EU SOU O MAXIMO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H EU SOU O MAXIMO
+http://4tv.site:2082/9939dd/4891349939/35764
+#EXTINF:-1 tvg-id="" tvg-name="24H FAISCA &amp; FUMAÇA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H FAISCA &amp; FUMAÇA
+http://4tv.site:2082/9939dd/4891349939/35765
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H GATO FELIX
+http://4tv.site:2082/9939dd/4891349939/35766
+#EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H HE-MAN
+http://4tv.site:2082/9939dd/4891349939/35767
+#EXTINF:-1 tvg-id="" tvg-name="24H BANANAS DE PIJAMAS DESENHO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BANANAS DE PIJAMAS DESENHO
+http://4tv.site:2082/9939dd/4891349939/35768
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAÇA FANTASMA DESENHO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS CAÇA FANTASMA DESENHO
+http://4tv.site:2082/9939dd/4891349939/35769
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGON BALL LONGAS" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGON BALL LONGAS
+http://4tv.site:2082/9939dd/4891349939/35770
+#EXTINF:-1 tvg-id="" tvg-name="24H XENA A PRINCESA GUERREIRA" tvg-logo="" group-title="Canais | 24 Horas Series",24H XENA A PRINCESA GUERREIRA
+http://4tv.site:2082/9939dd/4891349939/35771
+#EXTINF:-1 tvg-id="" tvg-name="24H BOOBA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BOOBA
+http://4tv.site:2082/9939dd/4891349939/35772
+#EXTINF:-1 tvg-id="" tvg-name="24H OS URSINHOS CARINHOSOS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS URSINHOS CARINHOSOS
+http://4tv.site:2082/9939dd/4891349939/35777
+#EXTINF:-1 tvg-id="" tvg-name="24H O SÓCIO" tvg-logo="http://capas.webplay.fun/SOCIO.jpg" group-title="Canais | 24 Horas Reality",24H O SÓCIO
+http://4tv.site:2082/9939dd/4891349939/35778
+#EXTINF:-1 tvg-id="" tvg-name="24H MARSHA E O URSO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MARSHA E O URSO
+http://4tv.site:2082/9939dd/4891349939/35779
+#EXTINF:-1 tvg-id="" tvg-name="24H TAZ MANIA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H TAZ MANIA
+http://4tv.site:2082/9939dd/4891349939/35780
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+http://4tv.site:2082/9939dd/4891349939/35781
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JOVENS TITÃS EM AÇÃO T05" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS JOVENS TITÃS EM AÇÃO T05
+http://4tv.site:2082/9939dd/4891349939/35782
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB CONSTRUTOR 1999" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BOB CONSTRUTOR 1999
+http://4tv.site:2082/9939dd/4891349939/35783
+#EXTINF:-1 tvg-id="" tvg-name="24H HILDA FURACÃO" tvg-logo="" group-title="Canais | 24 Horas Series",24H HILDA FURACÃO
+http://4tv.site:2082/9939dd/4891349939/35784
+#EXTINF:-1 tvg-id="" tvg-name="24H OS RONI" tvg-logo="" group-title="Canais | 24 Horas Series",24H OS RONI
+http://4tv.site:2082/9939dd/4891349939/35785
+#EXTINF:-1 tvg-id="" tvg-name="24H TV QUACK" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H TV QUACK
+http://4tv.site:2082/9939dd/4891349939/35786
+#EXTINF:-1 tvg-id="" tvg-name="24H TRANSFORMERS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H TRANSFORMERS
+http://4tv.site:2082/9939dd/4891349939/35787
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERCAMPEÕES" tvg-logo="" group-title="Canais | 24 Horas Series",24H SUPERCAMPEÕES
+http://4tv.site:2082/9939dd/4891349939/35789
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERAMIGOS" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H SUPERAMIGOS
+http://4tv.site:2082/9939dd/4891349939/35790
+#EXTINF:-1 tvg-id="" tvg-name="24H STREET FIGHTER" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H STREET FIGHTER
+http://4tv.site:2082/9939dd/4891349939/35791
+#EXTINF:-1 tvg-id="" tvg-name="24H SITIO DO PICA PAU AMARELO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H SITIO DO PICA PAU AMARELO
+http://4tv.site:2082/9939dd/4891349939/35792
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAZAAM" tvg-logo="" group-title="Canais | 24 Horas Series",24H SHAZAAM
+http://4tv.site:2082/9939dd/4891349939/35793
+#EXTINF:-1 tvg-id="" tvg-name="24H SAMURAI JACK" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H SAMURAI JACK
+http://4tv.site:2082/9939dd/4891349939/35794
+#EXTINF:-1 tvg-id="" tvg-name="24H A VIDA MODERNA DE ROCKO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H A VIDA MODERNA DE ROCKO
+http://4tv.site:2082/9939dd/4891349939/35795
+#EXTINF:-1 tvg-id="" tvg-name="24H REN &amp; STIMPY" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H REN &amp; STIMPY
+http://4tv.site:2082/9939dd/4891349939/35796
+#EXTINF:-1 tvg-id="" tvg-name="24H POWER RANGERS CLASSICO" tvg-logo="" group-title="Canais | 24 Horas Series",24H POWER RANGERS CLASSICO
+http://4tv.site:2082/9939dd/4891349939/35797
+#EXTINF:-1 tvg-id="" tvg-name="24H POLE POSITION" tvg-logo="" group-title="Canais | 24 Horas Series",24H POLE POSITION
+http://4tv.site:2082/9939dd/4891349939/35798
+#EXTINF:-1 tvg-id="" tvg-name="24H PINK E O CEREBRO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PINK E O CEREBRO
+http://4tv.site:2082/9939dd/4891349939/35799
+#EXTINF:-1 tvg-id="" tvg-name="24H O PEQUENO SCOOBY-DOO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H O PEQUENO SCOOBY-DOO
+http://4tv.site:2082/9939dd/4891349939/35800
+#EXTINF:-1 tvg-id="" tvg-name="24H PAPA LÉGUAS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PAPA LÉGUAS
+http://4tv.site:2082/9939dd/4891349939/35801
+#EXTINF:-1 tvg-id="" tvg-name="24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+http://4tv.site:2082/9939dd/4891349939/35802
+#EXTINF:-1 tvg-id="" tvg-name="24H O PEQUENO URSO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H O PEQUENO URSO
+http://4tv.site:2082/9939dd/4891349939/35803
+#EXTINF:-1 tvg-id="" tvg-name="24H 44 GATOS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H 44 GATOS
+http://4tv.site:2082/9939dd/4891349939/35804
+#EXTINF:-1 tvg-id="" tvg-name="24H MUMIAS VIVAS" tvg-logo="" group-title="Canais | 24 Horas Series",24H MUMIAS VIVAS
+http://4tv.site:2082/9939dd/4891349939/35805
+#EXTINF:-1 tvg-id="" tvg-name="24H MISTER MAKER" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MISTER MAKER
+http://4tv.site:2082/9939dd/4891349939/35806
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 01 E 02" tvg-logo="" group-title="Canais | 24 Horas Series",24H CHAVES TEMPORADA 01 E 02
+http://4tv.site:2082/9939dd/4891349939/35807
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 03 E 04" tvg-logo="" group-title="Canais | 24 Horas Series",24H CHAVES TEMPORADA 03 E 04
+http://4tv.site:2082/9939dd/4891349939/35808
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 05 E 06" tvg-logo="" group-title="Canais | 24 Horas Series",24H CHAVES TEMPORADA 05 E 06
+http://4tv.site:2082/9939dd/4891349939/35809
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 07" tvg-logo="" group-title="Canais | 24 Horas Series",24H CHAVES TEMPORADA 07
+http://4tv.site:2082/9939dd/4891349939/35810
+#EXTINF:-1 tvg-id="" tvg-name="24H MORANGUINHO AVENTURAS EM TUTTI FRUTI" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+http://4tv.site:2082/9939dd/4891349939/35811
+#EXTINF:-1 tvg-id="" tvg-name="24H MICKEY CLASSICO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MICKEY CLASSICO
+http://4tv.site:2082/9939dd/4891349939/35812
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DO ZÉ COLMÉIA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H A TURMA DO ZÉ COLMÉIA
+http://4tv.site:2082/9939dd/4891349939/35813
+#EXTINF:-1 tvg-id="" tvg-name="24H O MANDALORIANO T01" tvg-logo="" group-title="Canais | 24 Horas Series",24H O MANDALORIANO T01
+http://4tv.site:2082/9939dd/4891349939/35814
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL SUPER H265" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL SUPER H265
+http://4tv.site:2082/9939dd/4891349939/35815
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA SAYAJIN" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA SAYAJIN
+http://4tv.site:2082/9939dd/4891349939/35816
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA NAMEKUSEI" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA NAMEKUSEI
+http://4tv.site:2082/9939dd/4891349939/35817
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA FREEZA" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA FREEZA
+http://4tv.site:2082/9939dd/4891349939/35818
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA ANDROIDES" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA ANDROIDES
+http://4tv.site:2082/9939dd/4891349939/35819
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA CELL" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA CELL
+http://4tv.site:2082/9939dd/4891349939/35820
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA TORNEIO DO CELL" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA TORNEIO DO CELL
+http://4tv.site:2082/9939dd/4891349939/35821
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA SAYAMAN" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA SAYAMAN
+http://4tv.site:2082/9939dd/4891349939/35822
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA BABIDI" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA BABIDI
+http://4tv.site:2082/9939dd/4891349939/35823
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGONBALL Z SAGA MAJINBU" tvg-logo="http://capas.webplay.fun/dragonballw.png" group-title="Canais | 24 Horas Desenhos Premium",24H DRAGONBALL Z SAGA MAJINBU
+http://4tv.site:2082/9939dd/4891349939/35824
+#EXTINF:-1 tvg-id="" tvg-name="24H A CASA DO MICKEY MOUSE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H A CASA DO MICKEY MOUSE
+http://4tv.site:2082/9939dd/4891349939/35856
+#EXTINF:-1 tvg-id="" tvg-name="24H MEU AMIGÃOZÃO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MEU AMIGÃOZÃO
+http://4tv.site:2082/9939dd/4891349939/35857
+#EXTINF:-1 tvg-id="" tvg-name="24H A FAMILÍA HATHAWAYS" tvg-logo="" group-title="Canais | 24 Horas Series",24H A FAMILÍA HATHAWAYS
+http://4tv.site:2082/9939dd/4891349939/35858
+#EXTINF:-1 tvg-id="" tvg-name="24H ANIMAZOO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H ANIMAZOO
+http://4tv.site:2082/9939dd/4891349939/35859
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BABY LOONEY TUNES
+http://4tv.site:2082/9939dd/4891349939/35860
+#EXTINF:-1 tvg-id="" tvg-name="24H OS BACKYARDIGANS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS BACKYARDIGANS
+http://4tv.site:2082/9939dd/4891349939/35861
+#EXTINF:-1 tvg-id="" tvg-name="24H BATMAN E ROBIN CLASSICO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BATMAN E ROBIN CLASSICO
+http://4tv.site:2082/9939dd/4891349939/35862
+#EXTINF:-1 tvg-id="" tvg-name="24H SAKURA CARDCAPTORS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H SAKURA CARDCAPTORS
+http://4tv.site:2082/9939dd/4891349939/35863
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BEN 10 OMNIVERSE
+http://4tv.site:2082/9939dd/4891349939/35864
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BEN 10
+http://4tv.site:2082/9939dd/4891349939/35865
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER CHOQUE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H SUPER CHOQUE
+http://4tv.site:2082/9939dd/4891349939/35866
+#EXTINF:-1 tvg-id="" tvg-name="24H BRAVESTAR" tvg-logo="http://capas.webplay.fun/bravestar.png" group-title="Canais | 24 Horas Desenhos Premium",24H BRAVESTAR
+http://4tv.site:2082/9939dd/4891349939/35867
+#EXTINF:-1 tvg-id="" tvg-name="24H FRANKSTEIN JR E OS IMPOSSIVEÍS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+http://4tv.site:2082/9939dd/4891349939/35868
+#EXTINF:-1 tvg-id="" tvg-name="24H XODÓ DA VOVÓ" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H XODÓ DA VOVÓ
+http://4tv.site:2082/9939dd/4891349939/35869
+#EXTINF:-1 tvg-id="" tvg-name="24H WOLVERINE E OS X-MEN" tvg-logo="http://capas.webplay.fun/wolfve.png" group-title="Canais | 24 Horas Desenhos Premium",24H WOLVERINE E OS X-MEN
+http://4tv.site:2082/9939dd/4891349939/35870
+#EXTINF:-1 tvg-id="" tvg-name="24H ZORRO CLASSICO" tvg-logo="" group-title="Canais | 24 Horas Series",24H ZORRO CLASSICO
+http://4tv.site:2082/9939dd/4891349939/35871
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ZOOM" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BOB ZOOM
+http://4tv.site:2082/9939dd/4891349939/35873
+#EXTINF:-1 tvg-id="" tvg-name="24H TÁ CHOVENDO HAMBURGUER" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H TÁ CHOVENDO HAMBURGUER
+http://4tv.site:2082/9939dd/4891349939/35874
+#EXTINF:-1 tvg-id="" tvg-name="24H CLARÊNCIO O OTIMISTA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H CLARÊNCIO O OTIMISTA
+http://4tv.site:2082/9939dd/4891349939/35875
+#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE (HARDBLOG)" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H CORAGEM O CÃO COVARDE (HARDBLOG)
+http://4tv.site:2082/9939dd/4891349939/35876
+#EXTINF:-1 tvg-id="" tvg-name="24H CYBERCOPS" tvg-logo="http://capas.webplay.fun/COPS2.png" group-title="Canais | 24 Horas Desenhos Premium",24H CYBERCOPS
+http://4tv.site:2082/9939dd/4891349939/35877
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE &amp; JOSH" tvg-logo="" group-title="Canais | 24 Horas Series",24H DRAKE &amp; JOSH
+http://4tv.site:2082/9939dd/4891349939/35878
+#EXTINF:-1 tvg-id="" tvg-name="24H DE VOLTA PARA O FUTURO DESENHO" tvg-logo="http://capas.webplay.fun/devoltapara.png" group-title="Canais | 24 Horas Desenhos Premium",24H DE VOLTA PARA O FUTURO DESENHO
+http://4tv.site:2082/9939dd/4891349939/35879
+#EXTINF:-1 tvg-id="" tvg-name="24H DESENCANTO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DESENCANTO
+http://4tv.site:2082/9939dd/4891349939/35880
+#EXTINF:-1 tvg-id="" tvg-name="24H AS AVENTURAS DE TOM &amp; JERRY" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H AS AVENTURAS DE TOM &amp; JERRY
+http://4tv.site:2082/9939dd/4891349939/35881
+#EXTINF:-1 tvg-id="" tvg-name="24H MEGAMAN CLASSICO" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H MEGAMAN CLASSICO
+http://4tv.site:2082/9939dd/4891349939/35882
+#EXTINF:-1 tvg-id="" tvg-name="24H OS 7A" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS 7A
+http://4tv.site:2082/9939dd/4891349939/35883
+#EXTINF:-1 tvg-id="" tvg-name="24H OQUE HÁ DE NOVO SCOOBY DOO?" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OQUE HÁ DE NOVO SCOOBY DOO?
+http://4tv.site:2082/9939dd/4891349939/35884
+#EXTINF:-1 tvg-id="" tvg-name="24H QUE LEGAL SCOOBY DOO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H QUE LEGAL SCOOBY DOO
+http://4tv.site:2082/9939dd/4891349939/35885
+#EXTINF:-1 tvg-id="" tvg-name="24H PATO DONALD" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H PATO DONALD
+http://4tv.site:2082/9939dd/4891349939/35886
+#EXTINF:-1 tvg-id="" tvg-name="24H SILVERHAWKS" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H SILVERHAWKS
+http://4tv.site:2082/9939dd/4891349939/35887
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERNATURAL T01 A 05" tvg-logo="" group-title="Canais | 24 Horas Series",24H SUPERNATURAL T01 A 05
+http://4tv.site:2082/9939dd/4891349939/35888
+#EXTINF:-1 tvg-id="" tvg-name="24H LEGO UMA AVENTURA NA CIDADE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H LEGO UMA AVENTURA NA CIDADE
+http://4tv.site:2082/9939dd/4891349939/35889
+#EXTINF:-1 tvg-id="" tvg-name="24H BREAKING BAD" tvg-logo="" group-title="Canais | 24 Horas Series",24H BREAKING BAD
+http://4tv.site:2082/9939dd/4891349939/35890
+#EXTINF:-1 tvg-id="" tvg-name="24H POLICIA 24 HORAS" tvg-logo="http://capas.webplay.fun/POLICIA24.jpg" group-title="Canais | 24 Horas Reality",24H POLICIA 24 HORAS
+http://4tv.site:2082/9939dd/4891349939/35891
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DUCK DODGERS
+http://4tv.site:2082/9939dd/4891349939/35892
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK TALES CLÁSSICO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DUCK TALES CLÁSSICO
+http://4tv.site:2082/9939dd/4891349939/35893
+#EXTINF:-1 tvg-id="" tvg-name="24H FÁBULAS DA DISNEY" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H FÁBULAS DA DISNEY
+http://4tv.site:2082/9939dd/4891349939/35894
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAST FAROESTE" tvg-logo="http://capas.webplay.fun/FAROESTE.png" group-title="Canais | Cine Fast",CINE FAST FAROESTE
+http://4tv.site:2082/9939dd/4891349939/35895
+#EXTINF:-1 tvg-id="" tvg-name="24H OS FEITICEIROS DE WAVERLY PLACE" tvg-logo="http://capas.webplay.fun/Waverly_Place.jpg" group-title="Canais | 24 Horas Series",24H OS FEITICEIROS DE WAVERLY PLACE
+http://4tv.site:2082/9939dd/4891349939/35896
+#EXTINF:-1 tvg-id="" tvg-name="24H FORMIGA ATÔMICA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H FORMIGA ATÔMICA
+http://4tv.site:2082/9939dd/4891349939/35897
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA BABY" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H GALINHA BABY
+http://4tv.site:2082/9939dd/4891349939/35898
+#EXTINF:-1 tvg-id="" tvg-name="24H GOOGLE FIVE" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H GOOGLE FIVE
+http://4tv.site:2082/9939dd/4891349939/35899
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DOS LOONEY TUNES" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H O SHOW DOS LOONEY TUNES
+http://4tv.site:2082/9939dd/4891349939/35900
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H O INCRÍVEL MUNDO DE GUMBALL
+http://4tv.site:2082/9939dd/4891349939/35901
+#EXTINF:-1 tvg-id="" tvg-name="24H EMPIRE" tvg-logo="http://capas.webplay.fun/empire-poster.jpg" group-title="Canais | 24 Horas Series",24H EMPIRE
+http://4tv.site:2082/9939dd/4891349939/35902
+#EXTINF:-1 tvg-id="" tvg-name="24H iCARLY" tvg-logo="http://capas.webplay.fun/iCarly.jpg" group-title="Canais | 24 Horas Series",24H iCARLY
+http://4tv.site:2082/9939dd/4891349939/35903
+#EXTINF:-1 tvg-id="" tvg-name="24H JAKE E OS PIRATAS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H JAKE E OS PIRATAS
+http://4tv.site:2082/9939dd/4891349939/35904
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JETSONS" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H OS JETSONS
+http://4tv.site:2082/9939dd/4891349939/35905
+#EXTINF:-1 tvg-id="" tvg-name="24H HULK CLÁSSICO" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H HULK CLÁSSICO
+http://4tv.site:2082/9939dd/4891349939/35906
+#EXTINF:-1 tvg-id="" tvg-name="24H JONNY QUEST" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H JONNY QUEST
+http://4tv.site:2082/9939dd/4891349939/35907
+#EXTINF:-1 tvg-id="" tvg-name="24H KENAN E KEL" tvg-logo="http://capas.webplay.fun/Kenan_Kel.jpg" group-title="Canais | 24 Horas Series",24H KENAN E KEL
+http://4tv.site:2082/9939dd/4891349939/35908
+#EXTINF:-1 tvg-id="" tvg-name="24H  NIPTUCK ESTÉTICA" tvg-logo="http://capas.webplay.fun/NIPTUCK.jpg" group-title="Canais | 24 Horas Series",24H  NIPTUCK ESTÉTICA
+http://4tv.site:2082/9939dd/4891349939/35909
+#EXTINF:-1 tvg-id="" tvg-name="24H X-MEN CLÁSSICO" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H X-MEN CLÁSSICO
+http://4tv.site:2082/9939dd/4891349939/35910
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER-MÁQUINA" tvg-logo="http://capas.webplay.fun/SUPERMAQUINA.jpg" group-title="Canais | 24 Horas Series",24H SUPER-MÁQUINA
+http://4tv.site:2082/9939dd/4891349939/35911
+#EXTINF:-1 tvg-id="" tvg-name="24H OPERAÇÃO POLICIAL" tvg-logo="http://capas.webplay.fun/policial.jpg" group-title="Canais | 24 Horas Reality",24H OPERAÇÃO POLICIAL
+http://4tv.site:2082/9939dd/4891349939/35912
+#EXTINF:-1 tvg-id="" tvg-name="24H FLY O PEQUENO GUERREIRO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H FLY O PEQUENO GUERREIRO
+http://4tv.site:2082/9939dd/4891349939/35913
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA-PAU CLÁSSICO" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H PICA-PAU CLÁSSICO
+http://4tv.site:2082/9939dd/4891349939/35914
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAST DISNEY" tvg-logo="http://capas.webplay.fun/24DISNEY.png" group-title="Canais | Cine Fast",CINE FAST DISNEY
+http://4tv.site:2082/9939dd/4891349939/35915
+#EXTINF:-1 tvg-id="" tvg-name="24H THE BIG BANG THEORY T01 Á T05 " tvg-logo="http://capas.webplay.fun/BIGBANG.jpg" group-title="Canais | 24 Horas Series",24H THE BIG BANG THEORY T01 Á T05 
+http://4tv.site:2082/9939dd/4891349939/35916
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS 1ª Década 1989/1999" tvg-logo="http://capas.webplay.fun/simpsons2.png" group-title="Canais | 24 Horas Desenhos Premium",24H OS SIMPSONS 1ª Década 1989/1999
+http://4tv.site:2082/9939dd/4891349939/38313
+#EXTINF:-1 tvg-id="" tvg-name="24H JASPION²" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H JASPION²
+http://4tv.site:2082/9939dd/4891349939/38314
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAUN O CARNEIRO²" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H SHAUN O CARNEIRO²
+http://4tv.site:2082/9939dd/4891349939/38315
+#EXTINF:-1 tvg-id="" tvg-name="24H OGGY E AS BARATAS TONTAS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OGGY E AS BARATAS TONTAS
+http://4tv.site:2082/9939dd/4891349939/38316
+#EXTINF:-1 tvg-id="" tvg-name="24H LARANJA IRRITANTE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H LARANJA IRRITANTE
+http://4tv.site:2082/9939dd/4891349939/38607
+#EXTINF:-1 tvg-id="" tvg-name="24H DE FÉRIAS COM O EX BRASIL" tvg-logo="http://capas.webplay.fun/ferias.jpg" group-title="Canais | 24 Horas Reality",24H DE FÉRIAS COM O EX BRASIL
+http://4tv.site:2082/9939dd/4891349939/38663
+#EXTINF:-1 tvg-id="" tvg-name="24H DR HOUSE" tvg-logo="http://capas.webplay.fun/HOUSE.jpg" group-title="Canais | 24 Horas Series",24H DR HOUSE
+http://4tv.site:2082/9939dd/4891349939/38771
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS TEMPORADA 31" tvg-logo="http://capas.webplay.fun/simpsons2.png" group-title="Canais | 24 Horas Desenhos Premium",24H OS SIMPSONS TEMPORADA 31
+http://4tv.site:2082/9939dd/4891349939/38998
+#EXTINF:-1 tvg-id="" tvg-name="24H 2 HOMENS E MEIO T01 A T06" tvg-logo="http://capas.webplay.fun/2HOMENS.jpg" group-title="Canais | 24 Horas Series",24H 2 HOMENS E MEIO T01 A T06
+http://4tv.site:2082/9939dd/4891349939/39185
+#EXTINF:-1 tvg-id="" tvg-name="24H HENRY DANGER" tvg-logo="http://capas.webplay.fun/HENRY.jpg" group-title="Canais | 24 Horas Series",24H HENRY DANGER
+http://4tv.site:2082/9939dd/4891349939/43142
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES MULTISHOW" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H CHAVES MULTISHOW
+http://4tv.site:2082/9939dd/4891349939/47561
+#EXTINF:-1 tvg-id="" tvg-name="24H 2 HOMENS E MEIO T07 A T12" tvg-logo="http://capas.webplay.fun/2HOMENS.jpg" group-title="Canais | 24 Horas Series",24H 2 HOMENS E MEIO T07 A T12
+http://4tv.site:2082/9939dd/4891349939/152541
+#EXTINF:-1 tvg-id="" tvg-name="24H Larva" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Larva
+http://4tv.site:2082/9939dd/4891349939/154963
+#EXTINF:-1 tvg-id="" tvg-name="24H Família Dinossauro" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Família Dinossauro
+http://4tv.site:2082/9939dd/4891349939/154964
+#EXTINF:-1 tvg-id="" tvg-name="24H Bob Esponja Kamp Koral " tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Bob Esponja Kamp Koral 
+http://4tv.site:2082/9939dd/4891349939/154965
+#EXTINF:-1 tvg-id="" tvg-name="24H Scooby Doo Longas" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Scooby Doo Longas
+http://4tv.site:2082/9939dd/4891349939/154966
+#EXTINF:-1 tvg-id="" tvg-name="24H Apenas um Show" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Apenas um Show
+http://4tv.site:2082/9939dd/4891349939/155650
+#EXTINF:-1 tvg-id="" tvg-name="24H CINE TRAPALHÕES" tvg-logo="" group-title="Canais | 24 Horas Diversos",24H CINE TRAPALHÕES
+http://4tv.site:2082/9939dd/4891349939/155651
+#EXTINF:-1 tvg-id="" tvg-name="CINE SESSÃO DA TARDE" tvg-logo="" group-title="Canais | 24 Horas Diversos",CINE SESSÃO DA TARDE
+http://4tv.site:2082/9939dd/4891349939/155652
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H 3 PALAVRINHAS
+http://4tv.site:2082/9939dd/4891349939/155654
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H NARUTO
+http://4tv.site:2082/9939dd/4891349939/155655
+#EXTINF:-1 tvg-id="" tvg-name="24H DOUG" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DOUG
+http://4tv.site:2082/9939dd/4891349939/155656
+#EXTINF:-1 tvg-id="" tvg-name="24H Desenhos Biblicos" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H Desenhos Biblicos
+http://4tv.site:2082/9939dd/4891349939/155659
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H CAVALO DE FOGO
+http://4tv.site:2082/9939dd/4891349939/155662
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO PLANETA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H CAPITÃO PLANETA
+http://4tv.site:2082/9939dd/4891349939/155663
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T05 A 08" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H BOB ESPONJA T05 A 08
+http://4tv.site:2082/9939dd/4891349939/155664
+#EXTINF:-1 tvg-id="" tvg-name="24H INUYASHA (ANIME)" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H INUYASHA (ANIME)
+http://4tv.site:2082/9939dd/4891349939/155665
+#EXTINF:-1 tvg-id="" tvg-name="24H AS TARTARUGAS NINJAS CLASSICO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H AS TARTARUGAS NINJAS CLASSICO
+http://4tv.site:2082/9939dd/4891349939/155666
+#EXTINF:-1 tvg-id="" tvg-name="24H GRAVITY FALLS" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H GRAVITY FALLS
+http://4tv.site:2082/9939dd/4891349939/155667
+#EXTINF:-1 tvg-id="" tvg-name="24H POPEYE" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H POPEYE
+http://4tv.site:2082/9939dd/4891349939/155668
+#EXTINF:-1 tvg-id="" tvg-name="24H DR.STONE (ANIME)" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DR.STONE (ANIME)
+http://4tv.site:2082/9939dd/4891349939/155669
+#EXTINF:-1 tvg-id="" tvg-name="24H LIE TO ME" tvg-logo="" group-title="Canais | 24 Horas Series",24H LIE TO ME
+http://4tv.site:2082/9939dd/4891349939/155670
+#EXTINF:-1 tvg-id="" tvg-name="24H MACHINEMAN" tvg-logo="" group-title="Canais | 24 Horas Series",24H MACHINEMAN
+http://4tv.site:2082/9939dd/4891349939/155679
+#EXTINF:-1 tvg-id="" tvg-name="24H DESAFIO EM DOSE DUPLA" tvg-logo="" group-title="Canais | 24 Horas Series",24H DESAFIO EM DOSE DUPLA
+http://4tv.site:2082/9939dd/4891349939/155680
+#EXTINF:-1 tvg-id="" tvg-name="24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO
+http://4tv.site:2082/9939dd/4891349939/155705
+#EXTINF:-1 tvg-id="" tvg-name="24H HORA DE AVENTURA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H HORA DE AVENTURA
+http://4tv.site:2082/9939dd/4891349939/155726
+#EXTINF:-1 tvg-id="" tvg-name="24H AS TRAPALHADAS DE FLAPJACK (HARDBLOG)" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H AS TRAPALHADAS DE FLAPJACK (HARDBLOG)
+http://4tv.site:2082/9939dd/4891349939/155773
+#EXTINF:-1 tvg-id="" tvg-name="24H OS URSINHOS GUMMI" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H OS URSINHOS GUMMI
+http://4tv.site:2082/9939dd/4891349939/155774
+#EXTINF:-1 tvg-id="" tvg-name="24H MICKEY DONALD E PATETA" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MICKEY DONALD E PATETA
+http://4tv.site:2082/9939dd/4891349939/155842
+#EXTINF:-1 tvg-id="" tvg-name="24H MAD" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MAD
+http://4tv.site:2082/9939dd/4891349939/155919
+#EXTINF:-1 tvg-id="" tvg-name="24H CRIMINAL MINDS TEMPORADAS 01 A 05" tvg-logo="" group-title="Canais | 24 Horas Series",24H CRIMINAL MINDS TEMPORADAS 01 A 05
+http://4tv.site:2082/9939dd/4891349939/155920
+#EXTINF:-1 tvg-id="" tvg-name="24H INVENCIVEL" tvg-logo="" group-title="Canais | 24 Horas Desenhos Premium",24H INVENCIVEL
+http://4tv.site:2082/9939dd/4891349939/155921
+#EXTINF:-1 tvg-id="" tvg-name="24H MESTRES DO UNIVERSO" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H MESTRES DO UNIVERSO
+http://4tv.site:2082/9939dd/4891349939/168020
+#EXTINF:-1 tvg-id="" tvg-name="24H MESTRE DO SABOR" tvg-logo="" group-title="Canais | 24 Horas Reality",24H MESTRE DO SABOR
+http://4tv.site:2082/9939dd/4891349939/168579
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAGON BALL SUPER HEROES" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DRAGON BALL SUPER HEROES
+http://4tv.site:2082/9939dd/4891349939/168595
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS 32° TEMPORADA" tvg-logo="http://capas.webplay.fun/simpsons2.png" group-title="Canais | 24 Horas Desenhos Premium",24H OS SIMPSONS 32° TEMPORADA
+http://4tv.site:2082/9939dd/4891349939/168667
+#EXTINF:-1 tvg-id="" tvg-name="24H OS NORMAIS" tvg-logo="" group-title="Canais | 24 Horas Series",24H OS NORMAIS
+http://4tv.site:2082/9939dd/4891349939/168677
+#EXTINF:-1 tvg-id="" tvg-name="24H PÂNICO NA BAND 2016" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/Logo_P%C3%A2nico_na_Band.png/250px-Logo_P%C3%A2nico_na_Band.png" group-title="Canais | 24 Horas Reality",24H PÂNICO NA BAND 2016
+http://4tv.site:2082/9939dd/4891349939/168684
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JOVENS TITÃS EM AÇÃO T06" tvg-logo="" group-title="Canais | Infantis ",24H OS JOVENS TITÃS EM AÇÃO T06
+http://4tv.site:2082/9939dd/4891349939/175862
+#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON 2.000" tvg-logo="" group-title="Canais | 24 Horas Infantil",24H DIGIMON 2.000
+http://4tv.site:2082/9939dd/4891349939/176167
+#EXTINF:-1 tvg-id="" tvg-name="Anos 80" tvg-logo="" group-title="Canais | 24 Horas Diversos",Anos 80
+http://4tv.site:2082/9939dd/4891349939/176249
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music TV" tvg-logo="" group-title="Canais | 24 Horas Diversos",Retro Music TV
+http://4tv.site:2082/9939dd/4891349939/176250
+#EXTINF:-1 tvg-id="" tvg-name="24H Cine Familia" tvg-logo="" group-title="Canais | 24 Horas Diversos",24H Cine Familia
+http://4tv.site:2082/9939dd/4891349939/176251
+#EXTINF:-1 tvg-id="" tvg-name="RockTV" tvg-logo="" group-title="Canais | 24 Horas Diversos",RockTV
+http://4tv.site:2082/9939dd/4891349939/176252
+#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="" group-title="Canais | 24 Horas Diversos",MMA TV
+http://4tv.site:2082/9939dd/4891349939/176253
+#EXTINF:-1 tvg-id="" tvg-name="24H Tom & Jerry New York" tvg-logo="" group-title="Canais | 24 Horas Diversos",24H Tom & Jerry New York
+http://4tv.site:2082/9939dd/4891349939/176254
