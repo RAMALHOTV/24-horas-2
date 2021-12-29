@@ -184,4 +184,67 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=6000
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/38410
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Pink e Cérebro" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Pink e Cérebro
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/38411
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Pokemon
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig²" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Peppa Pig²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/116447
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Record RS - Porto Alegre [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record RS - Porto Alegre [HD]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/24500
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed Race" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Speed Race
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93384
+#EXTINF:-1 tvg-id="" tvg-name="Canal Olimpico - HD" tvg-logo="http://cdnbr.me/logos/img/olimpiadas.png" group-title="- Esportes",Canal Olimpico - HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/116976
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 101 Dalmatas" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] 101 Dalmatas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117215
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record GO - Goiânia [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record GO - Goiânia [HD]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117222
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Bruxinha Sabrina" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Bruxinha Sabrina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117223
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Casa Coruja" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Casa Coruja
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117547
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Corrida Espacial" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Corrida Espacial
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117548
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Familia Addams (1978)" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Familia Addams (1978)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117550
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Família Addams (1992)" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Família Addams (1992)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117583
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Guarda do Leão
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117586
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Lei de Milo Murphy" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Lei de Milo Murphy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117772
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Fantastico Mundo de Bob" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] O Fantastico Mundo de Bob
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117773
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tutubarão" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Tutubarão
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/119056
+#EXTINF:-1 tvg-id="" tvg-name="TV  Manchete" tvg-logo="http://cdnbr.me/logos/img/tvmanchete.png" group-title="- [24 Horas] Diversos",TV  Manchete
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97409
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="http://cdnbr.me/logos/img/gospelcartoon.png" group-title="- [24 Horas] Desenhos",Gospel Cartoon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97410
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Filmes" tvg-logo="http://cdnbr.me/logos/img/gospelmovies.png" group-title="- [24 Horas] Diversos",Gospel Filmes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97411
+#EXTINF:-1 tvg-id="" tvg-name="Kronos TV" tvg-logo="http://cdnbr.me/logos/img/kronostv.png" group-title="- [24 Horas] Diversos",Kronos TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97412
+#EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="http://cdnbr.me/logos/img/canal29.png" group-title="- [24 Horas] Diversos",Canal 29
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97413
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="http://cdnbr.me/logos/img/classique.png" group-title="- [24 Horas] Diversos",Classique TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97414
+#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="http://cdnbr.me/logos/img/retrocartoon.png" group-title="- [24 Horas] Desenhos",Retrô Cartoon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97415
+#EXTINF:-1 tvg-id="" tvg-name="Mundo TV" tvg-logo="http://cdnbr.me/logos/img/mundotv.png" group-title="- [24 Horas] Diversos",Mundo TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97416
+#EXTINF:-1 tvg-id="" tvg-name="TV Destak" tvg-logo="http://cdnbr.me/logos/img/tvdestak.png" group-title="- [24 Horas] Desenhos",TV Destak
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97417
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mundo Bita" tvg-logo="http://cdnbr.me/logos/img/bita.png" group-title="- [24 Horas] Desenhos",[24H] Mundo Bita
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/99941
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H] Todo Mundo Odeia o Chris•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54383
+#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T4)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T4)•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54389
+#EXTINF:-1 tvg-id="" tvg-name="[24H] João Kléber•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H] João Kléber•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54385
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu A Patroa e as Criancas•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H] Eu A Patroa e as Criancas•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54330
+#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T1)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T1)•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54386
+#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T2)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T2)•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54387
+#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T3)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T3)•
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54388
