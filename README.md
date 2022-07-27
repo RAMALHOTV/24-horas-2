@@ -1,250 +1,291 @@
 
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
-
+ 
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/RamalhoRamalhoRamalhoIPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+ 
 ################################################################################# Informações da Lista
-
+ 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
+https://www.youtube.com/channel/UCo
+ 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 19/12/2021
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
+https://www.youtube.com/channel/U
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:27/07/2022 
+https://www.youtube.com/channel/UCoj
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHORamalhoRamalhoRamalhoIPTV 
+https://www.youtube.com/channel/UCojJl
+ 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)91045772 
 https://www.youtube.com/channel/UCojJ
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Irmão do Jorel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93334
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo e Scrappy-Doo" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Scooby-Doo e Scrappy-Doo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93351
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda Do Leão" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Guarda Do Leão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93352
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Gravity Falls " tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Gravity Falls 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93382
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Clarencio o Otimista" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Clarencio o Otimista
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93383
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Meu Titio Avô" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Meu Titio Avô
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93385
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Terríveis Aventuras de Billy e Mandy" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] As Terríveis Aventuras de Billy e Mandy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93386
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Kick Buttowski" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Kick Buttowski
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93387
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Timão e Pumba
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93388
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Adventure Zero Two" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Digimon Adventure Zero Two
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93956
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga Da Justiça" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Liga Da Justiça
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93389
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraiya" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Jiraiya
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/92453
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Mickey Mouse" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Mickey Mouse
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93665
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CyberCop" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] CyberCop
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93666
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jaspion" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Jaspion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93726
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jonny Quest" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Jonny Quest
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93727
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Johnny Bravo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93812
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas Um Show" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Apenas Um Show
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93391
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93392
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem - O Cão Covarde" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Coragem - O Cão Covarde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93423
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93424
-#EXTINF:-1 tvg-id="" tvg-name="[24] A Praça é Nossa" tvg-logo="http://cdnbr.me/logos/img/pracanossa.png" group-title="- [24 Horas] Diversos",[24] A Praça é Nossa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93390
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sessão da Tarde" tvg-logo="http://cdnbr.me/logos/img/sessaotarde.png" group-title="- [24 Horas] Diversos",[24H] Sessão da Tarde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93664
-#EXTINF:-1 tvg-id="" tvg-name="[24H] iCarly" tvg-logo="http://cdnbr.me/logos/img/icarly.png" group-title="- [24 Horas] Diversos",[24H] iCarly
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93813
-#EXTINF:-1 tvg-id="" tvg-name="Cine Terror 01 - HD" tvg-logo="http://cdnbr.me/logos/img/cineterror.png" group-title="- Cine Sky",Cine Terror 01 - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93434
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 Palavrinhas ²" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] 3 Palavrinhas ²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54636
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Pequena Sereia•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Pequena Sereia•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54611
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Vaca e o Frango•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Vaca e o Frango•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54614
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Aladdin•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Aladdin•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54613
-#EXTINF:-1 tvg-id="" tvg-name="[24H] American Dad•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] American Dad•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54599
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] As Meninas Superpoderosas•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54601
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ben 10•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Ben 10•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54602
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Beyblade•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Beyblade•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54603
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Bob Esponja•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54615
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom •" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Bob Zoom •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54639
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão Maratona²" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Cascão Maratona²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54640
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Castelo Rá-Tim-Bum•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Castelo Rá-Tim-Bum•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54384
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco²" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Cavaleiros do Zodiaco²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54641
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Caverna do Dragão•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54616
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves em Desenho Animado•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Chaves em Desenho Animado•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54617
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves²" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Chaves²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54414
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Detona Ralph•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Detona Ralph•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54605
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora, a Aventureira•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Dora, a Aventureira•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54619
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Doug•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54620
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Formiga Atômica•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Formiga Atômica•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54622
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Fusão - Dragon Ball•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Fusão - Dragon Ball•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54621
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha •" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Galinha Pintadinha •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54643
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha²" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Galinha Pintadinha²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54449
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Gasparzinho•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Gasparzinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54623
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Hantaro•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Hantaro•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54624
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Homem de Ferro•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54607
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jackie Chan•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Jackie Chan•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54600
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jambo e Ruivão•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Jambo e Ruivão•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54625
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Johnny Bravo•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54381
-#EXTINF:-1 tvg-id="" tvg-name="[24H] João Grandão•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] João Grandão•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54626
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ladybug•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Ladybug•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54627
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ligeirinho•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Ligeirinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54608
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Lilo & Stitch•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Lilo & Stitch•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54609
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha •" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Luluzinha •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54644
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Magilla Gorilla•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Magilla Gorilla•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54629
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Marcelino Pão e Vinho•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Marcelino Pão e Vinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54630
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Masha e o Urso•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54579
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Naruto•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54631
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Máskara•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] O Máskara•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54632
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Novo Testamento" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] O Novo Testamento
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/86435
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Poderoso Chefinho•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] O Poderoso Chefinho•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54610
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Cavaleiros do Zodíaco•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Os Cavaleiros do Zodíaco•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54604
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flintstones•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Os Flintstones•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54634
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetsons•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Os Jetsons•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54542
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Os Padrinhos Mágicos•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54635
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Três Mosqueteiros•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Os Três Mosqueteiros•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54633
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Pernalonga•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54612
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Popeye•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54558
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Scooby-Doo•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54645
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Super Choque•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54598
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tico e Teco •" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Tico e Teco •
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54547
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Timão e Pumba•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54549
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Denis o Pimentinha" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Denis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/38367
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Liga da Justica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/38447
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica-Pau" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Pica-Pau
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/38410
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink e Cérebro" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Pink e Cérebro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/38411
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig²" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Peppa Pig²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/116447
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Record RS - Porto Alegre [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record RS - Porto Alegre [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/24500
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed Race" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Speed Race
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/93384
-#EXTINF:-1 tvg-id="" tvg-name="Canal Olimpico - HD" tvg-logo="http://cdnbr.me/logos/img/olimpiadas.png" group-title="- Esportes",Canal Olimpico - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/116976
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 101 Dalmatas" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] 101 Dalmatas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117215
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record GO - Goiânia [HD]" tvg-logo="http://cdnbr.me/logos/img/record.png" group-title="- Record [Cortesia]",Record GO - Goiânia [HD]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117222
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Bruxinha Sabrina" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Bruxinha Sabrina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117223
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Casa Coruja" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Casa Coruja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117547
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Corrida Espacial" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Corrida Espacial
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117548
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Familia Addams (1978)" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Familia Addams (1978)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117550
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Família Addams (1992)" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Família Addams (1992)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117583
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Guarda do Leão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117586
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Lei de Milo Murphy" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] A Lei de Milo Murphy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117772
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Fantastico Mundo de Bob" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] O Fantastico Mundo de Bob
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/117773
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tutubarão" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Desenhos",[24H] Tutubarão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/119056
-#EXTINF:-1 tvg-id="" tvg-name="TV  Manchete" tvg-logo="http://cdnbr.me/logos/img/tvmanchete.png" group-title="- [24 Horas] Diversos",TV  Manchete
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97409
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="http://cdnbr.me/logos/img/gospelcartoon.png" group-title="- [24 Horas] Desenhos",Gospel Cartoon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97410
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Filmes" tvg-logo="http://cdnbr.me/logos/img/gospelmovies.png" group-title="- [24 Horas] Diversos",Gospel Filmes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97411
-#EXTINF:-1 tvg-id="" tvg-name="Kronos TV" tvg-logo="http://cdnbr.me/logos/img/kronostv.png" group-title="- [24 Horas] Diversos",Kronos TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97412
-#EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="http://cdnbr.me/logos/img/canal29.png" group-title="- [24 Horas] Diversos",Canal 29
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97413
-#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="http://cdnbr.me/logos/img/classique.png" group-title="- [24 Horas] Diversos",Classique TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97414
-#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="http://cdnbr.me/logos/img/retrocartoon.png" group-title="- [24 Horas] Desenhos",Retrô Cartoon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97415
-#EXTINF:-1 tvg-id="" tvg-name="Mundo TV" tvg-logo="http://cdnbr.me/logos/img/mundotv.png" group-title="- [24 Horas] Diversos",Mundo TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97416
-#EXTINF:-1 tvg-id="" tvg-name="TV Destak" tvg-logo="http://cdnbr.me/logos/img/tvdestak.png" group-title="- [24 Horas] Desenhos",TV Destak
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/97417
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Mundo Bita" tvg-logo="http://cdnbr.me/logos/img/bita.png" group-title="- [24 Horas] Desenhos",[24H] Mundo Bita
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/99941
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H] Todo Mundo Odeia o Chris•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54383
-#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T4)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T4)•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54389
-#EXTINF:-1 tvg-id="" tvg-name="[24H] João Kléber•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H] João Kléber•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54385
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu A Patroa e as Criancas•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H] Eu A Patroa e as Criancas•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54330
-#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T1)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T1)•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54386
-#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T2)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T2)•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54387
-#EXTINF:-1 tvg-id="" tvg-name="[24H]  Kenan & Kel (T3)•" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="- [24 Horas] Diversos",[24H]  Kenan & Kel (T3)•
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:8080/fabiana123/123fabiana/54388
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - 3 Palavrinhas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766529
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Feiticeira" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - A Feiticeira
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766664
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Grande Familia" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - A Grande Familia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766665
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 1" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766539
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766540
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 3" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766541
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 4" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766542
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Agente Carter - T01" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Agente Carter - T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766667
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Agente Carter - T02" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Agente Carter - T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766668
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Agora Muppets" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Agora Muppets
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766669
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Aladin" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Aladin
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766543
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - As Mais Tocadas 2022" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - As Mais Tocadas 2022
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766825
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - As Meninas Superpoderosas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - As Meninas Superpoderosas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766545
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Ben 10" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Ben 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766549
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Bluey" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Bluey
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766663
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Bob Esponja" tvg-logo="https://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Bob Esponja
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766553
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Breaking Bad" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Breaking Bad
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766671
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Carrossel 1989" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Carrossel 1989
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766771
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Caverna do Dragão" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Caverna do Dragão
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766565
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Chapolin Colorado" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Chapolin Colorado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766673
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Chaves" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Chaves
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766675
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Chaves Desenho" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Chaves Desenho
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766567
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Corridas Proibidas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Corridas Proibidas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766677
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Corridas Proibidas 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Corridas Proibidas 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766734
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cupom Mania - T01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766569
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cupom Mania - T02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766570
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cupom Mania - T03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766571
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cão Coragem" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cão Coragem
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766572
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Denis o Pimentinha" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Denis o Pimentinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766574
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Desenhos Biblicos" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Desenhos Biblicos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766575
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Desenhos Disney" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Desenhos Disney
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766577
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Digimon" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Digimon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766579
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 10T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 10T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766748
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 11T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 11T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766749
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 12T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 12T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766750
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 1T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 1T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766739
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 2T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 2T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766740
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 3T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 3T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766741
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 4T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 4T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766742
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 5T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 5T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766743
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 6T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 6T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 7T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 7T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 8T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 8T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766746
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 9T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 9T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766747
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Doug" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Doug
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766580
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dragon Ball" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Dragon Ball
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766582
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - DRAGON BALL 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - DRAGON BALL 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766584
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dragon Ball Z Saga Freeza" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Dragon Ball Z Saga Freeza
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766586
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu a Patroa e as Crianças" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu a Patroa e as Crianças
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766680
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu A Patroa E As Crianças - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu A Patroa E As Crianças - Temp 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766682
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu A Patroa E As Crianças - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu A Patroa E As Crianças - Temp 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766683
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu A Patroa E As Crianças - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu A Patroa E As Crianças - Temp 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766684
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766687
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766688
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766689
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766690
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766691
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766692
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 07" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766693
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 08" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766694
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 09" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766695
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 10" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766696
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Galinha Pintadinha" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Galinha Pintadinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766587
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766762
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766763
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766764
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766765
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766766
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766767
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T07" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766768
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T08" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766769
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Guardiões da Galaxia" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Guardiões da Galaxia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766589
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T01" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766697
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T02" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766698
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T03" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766699
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T04" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766700
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - He-Man" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - He-Man
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766592
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hip Hop Mix" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Hip Hop Mix
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766826
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Historias Disney" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Historias Disney
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766593
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 1T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 1T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766735
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 2T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 2T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766736
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 3T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 3T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766737
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 4T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 4T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766738
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Inspetor Bugiganga" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Inspetor Bugiganga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766595
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Masha e o Urso 1T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 1T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766660
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Masha e o Urso 2T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 2T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766661
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Masha e o Urso 3T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 3T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766662
+#EXTINF:-1 tvg-id="" tvg-name="[24h] - Missão Harpa" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24h] - Missão Harpa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766612
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Mr. Bean" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Mr. Bean
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766702
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Música Eletrônica Academia" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Música Eletrônica Academia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766827
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Operação Policial - Da Cunha - Temp 1" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Operação Policial - Da Cunha - Temp 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766704
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Operação Policial - Da Cunha - Temp 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Operação Policial - Da Cunha - Temp 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766705
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Operação Policial - Da Cunha - Temp 3" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Operação Policial - Da Cunha - Temp 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766706
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Peppa Pig" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766625
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Peppa Pig Curtas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Peppa Pig Curtas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766626
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Pica Pau" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Pica Pau
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766627
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Piseiro 1" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Piseiro 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766822
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Piseiro 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Piseiro 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766823
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Piseiro 3" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Piseiro 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766824
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766730
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766731
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766732
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766733
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Qual é a Musica? - Silvio Santos" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Qual é a Musica? - Silvio Santos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766777
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Roda Roda Jequiti" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Roda Roda Jequiti
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766779
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Sertanejo 2022" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Sertanejo 2022
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766828
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Snoop Dogg" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Snoop Dogg
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766829
+#EXTINF:-1 tvg-id="" tvg-name="[24h] - The Big Bang Theory - Temp 11" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24h] - The Big Bang Theory - Temp 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766720
+#EXTINF:-1 tvg-id="" tvg-name="[24h] - The Big Bang Theory - Temp 12" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24h] - The Big Bang Theory - Temp 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766721
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766751
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766752
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766753
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766754
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766755
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766756
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T07" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766757
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T08" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766758
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T09" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766759
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T10" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766760
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T11" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766761
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766723
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766724
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766725
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766726
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Tomorrow Land" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Tomorrow Land
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766830
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766786
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766787
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766788
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766789
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766790
+#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/766791
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] CORRIDA MALUCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]24H[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923650
